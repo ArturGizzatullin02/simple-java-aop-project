@@ -1,48 +1,63 @@
 package ru.artur.project.service;
 
 import org.springframework.stereotype.Service;
-import ru.artur.project.annotation.HandlingResult;
+import ru.artur.project.annotation.HandleException;
 import ru.artur.project.annotation.LogException;
-import ru.artur.project.annotation.LogExecution;
-import ru.artur.project.annotation.LogTracking;
+import ru.artur.project.annotation.HandleReturning;
+import ru.artur.project.annotation.LogBefore;
+import ru.artur.project.exception.DivisionByZeroException;
+import ru.artur.project.exception.RootOfANegativeNumberException;
 
-import java.util.ArrayList;
-import java.util.List;
 
 @Service
 public class MainService {
-    private final SecondService secondService;
 
-    public MainService(SecondService secondService) {
-        this.secondService = secondService;
+    public MainService() {
     }
 
-    @LogExecution
-    @LogTracking
-    public void greeting() {
-        try {
-            Thread.sleep(5000);
-        } catch (InterruptedException e) {
-            throw new RuntimeException(e);
-        }
-        System.out.println("Hello from MainService");
+    @LogBefore
+    public Double getSum(Double a, Double b) {
+        Double sum = a + b;
+        System.out.println("Sum of " + a + " and " + b + " is " + sum);
+        return sum;
     }
 
-    public void sayGoodByeFromMainService() {
-        secondService.sayGoodByeFromSecondService();
+    @HandleReturning
+    @LogBefore
+    public Double getDifference(Double a, Double b) {
+        Double difference = a - b;
+        System.out.println("Difference of " + a + " and " + b + " is " + difference);
+        return difference;
     }
 
-    @LogExecution
+    @LogBefore
+    public Double getProduct(Double a, Double b) {
+        Double product = a * b;
+        System.out.println("Product of " + a + " and " + b + " is " + product);
+        return product;
+    }
+
+    // пример с логированием, но дальнейшим пробросом исключения
     @LogException
-    public void throwException(int value) {
-        if (value == 0) {
-            throw new IllegalStateException("Value is zero");
+    @LogBefore
+    public Double getDivision(Double a, Double b) {
+        Double division = a / b;
+        if (b == 0) {
+            throw new DivisionByZeroException("Division by zero is not allowed");
         }
-        System.out.println("Value is " + value);
+        System.out.println("Division of " + a + " and " + b + " is " + division);
+        return division;
     }
 
-    @HandlingResult
-    public List<String> getString() {
-        return new ArrayList<>(List.of("Hello", "from", "main", "service"));
+    // пример с обработкой, без дальнейшего проброса исключения
+    @HandleException
+    @LogException
+    @LogBefore
+    public Double getSquareRoot(Double a) {
+        if (a < 0) {
+            throw new RootOfANegativeNumberException("Root of a negative number is not allowed now");
+        }
+        System.out.println("Square root of " + a + " is " + Math.sqrt(a));
+        return Math.sqrt(a);
     }
 }
