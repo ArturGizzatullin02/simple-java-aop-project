@@ -51,7 +51,6 @@ public class MainService {
 
     // пример с обработкой, без дальнейшего проброса исключения
     @HandleException
-    @LogException
     @LogBefore
     public Double getSquareRoot(Double a) {
         if (a < 0) {

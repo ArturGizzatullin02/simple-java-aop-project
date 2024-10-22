@@ -19,13 +19,14 @@ public class MainAspect {
 
     @AfterThrowing(pointcut = "@annotation(ru.artur.project.annotation.LogException)", throwing = "ex")
     public void logException(JoinPoint joinPoint, Throwable ex) {
-        System.out.println("[MAIN ASPECT AFTER THROWING] From calling method " + joinPoint.getSignature().toShortString()
-                + " threw exception: " + ex);
+        System.out.println("[MAIN ASPECT AFTER THROWING] From calling method " + joinPoint.getSignature()
+                .toShortString() + " threw exception: " + ex);
     }
 
     @AfterReturning(pointcut = "@annotation(ru.artur.project.annotation.HandleReturning)", returning = "result")
     public void handleReturning(JoinPoint joinPoint, Object result) {
-        System.out.println("[MAIN ASPECT AFTER RETURNING] From calling method " + joinPoint.getSignature().toShortString());
+        System.out.println("[MAIN ASPECT AFTER RETURNING] From calling method " + joinPoint.getSignature()
+                .toShortString());
         System.out.println("[MAIN ASPECT AFTER RETURNING] Result is: " + result);
     }
 
@@ -35,7 +36,7 @@ public class MainAspect {
         try {
             result = joinPoint.proceed();
         } catch (Throwable ex) {
-            System.out.println("[MAIN ASPECT AROUND] From calling method " + joinPoint.getSignature().toShortString()
+            System.out.println("[MAIN ASPECT AROUND] EXCEPTION: From calling method " + joinPoint.getSignature().toShortString()
             + " threw exception: " + ex);
         }
         return result;
