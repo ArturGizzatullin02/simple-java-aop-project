@@ -1,0 +1,33 @@
+spring:
+  application:
+    name: simple-java-aop-project
+  datasource:
+    url: jdbc:postgresql://localhost:5432/
+    username: postgres
+    password: postgres
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+
+for-kafka:
+  scan-path: 'ru.artur.project'
+  kafka:
+    bootstrap:
+      server: localhost:9092
+    session:
+      timeout-ms: 15000
+    max:
+      max-partitions-fetch-bytes: 300000
+      max-poll-records: 1
+      max-poll-interval-ms: 3000
+    consumer:
+      group-id: demo-group
+      max-poll-records: 10
+    producer:
+      enable: true
+    topic:
+      item-creating: item-creating
+      item-created: item-created
+    listener:
+      poll-timeout: 1000

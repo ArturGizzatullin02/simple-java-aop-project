@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "name": "T-Mobile",
+    "description": "intranet",
+    "price": 6
+  },
+  {
+    "id": 2,
+    "name": "Gionee",
+    "description": "protocol",
+    "price": 55
+  },
+  {
+    "id": 3,
+    "name": "LG",
+    "description": "discrete",
+    "price": 65
+  },
+  {
+    "id": 4,
+    "name": "LG",
+    "description": "algorithm",
+    "price": 29
+  },
+  {
+    "id": 5,
+    "name": "Lenovo",
+    "description": "Synchronised",
+    "price": 34
+  },
+  {
+    "id": 6,
+    "name": "Samsung",
+    "description": "circuit",
+    "price": 4
+  },
+  {
+    "id": 7,
+    "name": "i-mobile",
+    "description": "executive",
+    "price": 38
+  },
+  {
+    "id": 8,
+    "name": "Huawei",
+    "description": "initiative",
+    "price": 95
+  },
+  {
+    "id": 9,
+    "name": "Plum",
+    "description": "Progressive",
+    "price": 61
+  },
+  {
+    "id": 10,
+    "name": "QMobile",
+    "description": "definition",
+    "price": 95
+  },
+  {
+    "id": 11,
+    "name": "ZTE",
+    "description": "interactive",
+    "price": 38
+  },
+  {
+    "id": 12,
+    "name": "Samsung",
+    "description": "zero tolerance",
+    "price": 13
+  },
+  {
+    "id": 13,
+    "name": "Motorola",
+    "description": "Advanced",
+    "price": 88
+  },
+  {
+    "id": 14,
+    "name": "Yezz",
+    "description": "context-sensitive",
+    "price": 82
+  },
+  {
+    "id": 15,
+    "name": "Icemobile",
+    "description": "intangible",
+    "price": 48
+  },
+  {
+    "id": 16,
+    "name": "HTC",
+    "description": "Face to face",
+    "price": 64
+  },
+  {
+    "id": 17,
+    "name": "Yezz",
+    "description": "Multi-layered",
+    "price": 74
+  },
+  {
+    "id": 18,
+    "name": "LG",
+    "description": "architecture",
+    "price": 4
+  },
+  {
+    "id": 19,
+    "name": "Samsung",
+    "description": "definition",
+    "price": 42
+  },
+  {
+    "id": 20,
+    "name": "Samsung",
+    "description": "Devolved",
+    "price": 49
+  },
+  {
+    "id": 21,
+    "name": "Micromax",
+    "description": "middleware",
+    "price": 36
+  },
+  {
+    "id": 22,
+    "name": "Mitac",
+    "description": "didactic",
+    "price": 50
+  },
+  {
+    "id": 23,
+    "name": "Samsung",
+    "description": "global",
+    "price": 71
+  },
+  {
+    "id": 24,
+    "name": "Micromax",
+    "description": "monitoring",
+    "price": 71
+  },
+  {
+    "id": 25,
+    "name": "Motorola",
+    "description": "multimedia",
+    "price": 33
+  },
+  {
+    "id": 26,
+    "name": "Huawei",
+    "description": "solution-oriented",
+    "price": 100
+  },
+  {
+    "id": 27,
+    "name": "alcatel",
+    "description": "fault-tolerant",
+    "price": 1
+  },
+  {
+    "id": 28,
+    "name": "Samsung",
+    "description": "Integrated",
+    "price": 75
+  },
+  {
+    "id": 29,
+    "name": "Pantech",
+    "description": "workforce",
+    "price": 38
+  },
+  {
+    "id": 30,
+    "name": "Allview",
+    "description": "Total",
+    "price": 40
+  },
+  {
+    "id": 31,
+    "name": "LG",
+    "description": "system-worthy",
+    "price": 14
+  },
+  {
+    "id": 32,
+    "name": "Samsung",
+    "description": "multimedia",
+    "price": 41
+  },
+  {
+    "id": 33,
+    "name": "Sony",
+    "description": "discrete",
+    "price": 58
+  },
+  {
+    "id": 34,
+    "name": "Micromax",
+    "description": "customer loyalty",
+    "price": 39
+  },
+  {
+    "id": 35,
+    "name": "alcatel",
+    "description": "software",
+    "price": 35
+  },
+  {
+    "id": 36,
+    "name": "Nokia",
+    "description": "Stand-alone",
+    "price": 46
+  },
+  {
+    "id": 37,
+    "name": "Sony",
+    "description": "asynchronous",
+    "price": 98
+  },
+  {
+    "id": 38,
+    "name": "Celkon",
+    "description": "grid-enabled",
+    "price": 72
+  },
+  {
+    "id": 39,
+    "name": "Xiaomi",
+    "description": "bifurcated",
+    "price": 99
+  },
+  {
+    "id": 40,
+    "name": "Yezz",
+    "description": "software",
+    "price": 35
+  },
+  {
+    "id": 41,
+    "name": "LG",
+    "description": "high-level",
+    "price": 9
+  },
+  {
+    "id": 42,
+    "name": "HP",
+    "description": "non-volatile",
+    "price": 28
+  },
+  {
+    "id": 43,
+    "name": "Energizer",
+    "description": "orchestration",
+    "price": 63
+  },
+  {
+    "id": 44,
+    "name": "Karbonn",
+    "description": "Diverse",
+    "price": 22
+  },
+  {
+    "id": 45,
+    "name": "Gionee",
+    "description": "toolset",
+    "price": 23
+  },
+  {
+    "id": 46,
+    "name": "Lava",
+    "description": "hub",
+    "price": 53
+  },
+  {
+    "id": 47,
+    "name": "Huawei",
+    "description": "orchestration",
+    "price": 57
+  },
+  {
+    "id": 48,
+    "name": "ZTE",
+    "description": "projection",
+    "price": 45
+  },
+  {
+    "id": 49,
+    "name": "Tecno",
+    "description": "functionalities",
+    "price": 12
+  },
+  {
+    "id": 50,
+    "name": "Toshiba",
+    "description": "leading edge",
+    "price": 37
+  },
+  {
+    "id": 51,
+    "name": "Plum",
+    "description": "Organic",
+    "price": 37
+  },
+  {
+    "id": 52,
+    "name": "Celkon",
+    "description": "Organized",
+    "price": 83
+  },
+  {
+    "id": 53,
+    "name": "Asus",
+    "description": "middleware",
+    "price": 71
+  },
+  {
+    "id": 54,
+    "name": "Samsung",
+    "description": "Total",
+    "price": 46
+  },
+  {
+    "id": 55,
+    "name": "Celkon",
+    "description": "Proactive",
+    "price": 5
+  },
+  {
+    "id": 56,
+    "name": "Micromax",
+    "description": "interactive",
+    "price": 70
+  },
+  {
+    "id": 57,
+    "name": "vivo",
+    "description": "policy",
+    "price": 81
+  },
+  {
+    "id": 58,
+    "name": "Bird",
+    "description": "model",
+    "price": 48
+  },
+  {
+    "id": 59,
+    "name": "Motorola",
+    "description": "hierarchy",
+    "price": 35
+  },
+  {
+    "id": 60,
+    "name": "Sagem",
+    "description": "synergy",
+    "price": 49
+  },
+  {
+    "id": 61,
+    "name": "BLU",
+    "description": "multi-tasking",
+    "price": 19
+  },
+  {
+    "id": 62,
+    "name": "Panasonic",
+    "description": "Seamless",
+    "price": 66
+  },
+  {
+    "id": 63,
+    "name": "BenQ",
+    "description": "Compatible",
+    "price": 28
+  },
+  {
+    "id": 64,
+    "name": "Amazon",
+    "description": "Object-based",
+    "price": 87
+  },
+  {
+    "id": 65,
+    "name": "BenQ",
+    "description": "radical",
+    "price": 20
+  },
+  {
+    "id": 66,
+    "name": "Spice",
+    "description": "24 hour",
+    "price": 69
+  },
+  {
+    "id": 67,
+    "name": "Archos",
+    "description": "background",
+    "price": 19
+  },
+  {
+    "id": 68,
+    "name": "Nokia",
+    "description": "global",
+    "price": 82
+  },
+  {
+    "id": 69,
+    "name": "Huawei",
+    "description": "Function-based",
+    "price": 10
+  },
+  {
+    "id": 70,
+    "name": "Motorola",
+    "description": "Digitized",
+    "price": 88
+  },
+  {
+    "id": 71,
+    "name": "Micromax",
+    "description": "moderator",
+    "price": 16
+  },
+  {
+    "id": 72,
+    "name": "Panasonic",
+    "description": "Re-contextualized",
+    "price": 92
+  },
+  {
+    "id": 73,
+    "name": "Philips",
+    "description": "full-range",
+    "price": 71
+  },
+  {
+    "id": 74,
+    "name": "Icemobile",
+    "description": "Cross-platform",
+    "price": 62
+  },
+  {
+    "id": 75,
+    "name": "alcatel",
+    "description": "hub",
+    "price": 61
+  },
+  {
+    "id": 76,
+    "name": "Motorola",
+    "description": "3rd generation",
+    "price": 90
+  },
+  {
+    "id": 77,
+    "name": "Motorola",
+    "description": "bandwidth-monitored",
+    "price": 65
+  },
+  {
+    "id": 78,
+    "name": "Sony",
+    "description": "didactic",
+    "price": 23
+  },
+  {
+    "id": 79,
+    "name": "BLU",
+    "description": "6th generation",
+    "price": 8
+  },
+  {
+    "id": 80,
+    "name": "Mitsubishi",
+    "description": "Decentralized",
+    "price": 38
+  },
+  {
+    "id": 81,
+    "name": "Micromax",
+    "description": "dedicated",
+    "price": 56
+  },
+  {
+    "id": 82,
+    "name": "Samsung",
+    "description": "4th generation",
+    "price": 6
+  },
+  {
+    "id": 83,
+    "name": "Xiaomi",
+    "description": "monitoring",
+    "price": 8
+  },
+  {
+    "id": 84,
+    "name": "ZTE",
+    "description": "reciprocal",
+    "price": 38
+  },
+  {
+    "id": 85,
+    "name": "Nokia",
+    "description": "6th generation",
+    "price": 52
+  },
+  {
+    "id": 86,
+    "name": "alcatel",
+    "description": "open architecture",
+    "price": 98
+  },
+  {
+    "id": 87,
+    "name": "O2",
+    "description": "functionalities",
+    "price": 66
+  },
+  {
+    "id": 88,
+    "name": "Plum",
+    "description": "Multi-tiered",
+    "price": 76
+  },
+  {
+    "id": 89,
+    "name": "Huawei",
+    "description": "value-added",
+    "price": 58
+  },
+  {
+    "id": 90,
+    "name": "Google",
+    "description": "Networked",
+    "price": 46
+  },
+  {
+    "id": 91,
+    "name": "Icemobile",
+    "description": "stable",
+    "price": 66
+  },
+  {
+    "id": 92,
+    "name": "Allview",
+    "description": "exuding",
+    "price": 28
+  },
+  {
+    "id": 93,
+    "name": "Oppo",
+    "description": "interface",
+    "price": 67
+  },
+  {
+    "id": 94,
+    "name": "Pantech",
+    "description": "Graphical User Interface",
+    "price": 44
+  },
+  {
+    "id": 95,
+    "name": "Sony",
+    "description": "radical",
+    "price": 51
+  },
+  {
+    "id": 96,
+    "name": "QMobile",
+    "description": "Multi-lateral",
+    "price": 66
+  },
+  {
+    "id": 97,
+    "name": "QMobile",
+    "description": "Team-oriented",
+    "price": 51
+  },
+  {
+    "id": 98,
+    "name": "Eten",
+    "description": "Re-contextualized",
+    "price": 25
+  },
+  {
+    "id": 99,
+    "name": "Motorola",
+    "description": "Re-engineered",
+    "price": 6
+  },
+  {
+    "id": 100,
+    "name": "iNQ",
+    "description": "zero administration",
+    "price": 77
+  },
+  {
+    "id": 101,
+    "name": "Motorola",
+    "description": "database",
+    "price": 57
+  },
+  {
+    "id": 102,
+    "name": "alcatel",
+    "description": "Integrated",
+    "price": 38
+  },
+  {
+    "id": 103,
+    "name": "Huawei",
+    "description": "grid-enabled",
+    "price": 72
+  },
+  {
+    "id": 104,
+    "name": "Samsung",
+    "description": "transitional",
+    "price": 99
+  },
+  {
+    "id": 105,
+    "name": "Motorola",
+    "description": "zero administration",
+    "price": 78
+  },
+  {
+    "id": 106,
+    "name": "Intex",
+    "description": "secondary",
+    "price": 4
+  },
+  {
+    "id": 107,
+    "name": "Samsung",
+    "description": "matrices",
+    "price": 46
+  },
+  {
+    "id": 108,
+    "name": "LG",
+    "description": "3rd generation",
+    "price": 83
+  },
+  {
+    "id": 109,
+    "name": "Panasonic",
+    "description": "Right-sized",
+    "price": 82
+  },
+  {
+    "id": 110,
+    "name": "Toshiba",
+    "description": "pricing structure",
+    "price": 56
+  },
+  {
+    "id": 111,
+    "name": "Nokia",
+    "description": "Multi-lateral",
+    "price": 30
+  },
+  {
+    "id": 112,
+    "name": "Samsung",
+    "description": "internet solution",
+    "price": 6
+  },
+  {
+    "id": 113,
+    "name": "Sony",
+    "description": "zero administration",
+    "price": 43
+  },
+  {
+    "id": 114,
+    "name": "Plum",
+    "description": "definition",
+    "price": 10
+  },
+  {
+    "id": 115,
+    "name": "Samsung",
+    "description": "emulation",
+    "price": 31
+  },
+  {
+    "id": 116,
+    "name": "Apple",
+    "description": "Centralized",
+    "price": 38
+  },
+  {
+    "id": 117,
+    "name": "LG",
+    "description": "moratorium",
+    "price": 49
+  },
+  {
+    "id": 118,
+    "name": "Siemens",
+    "description": "capability",
+    "price": 27
+  },
+  {
+    "id": 119,
+    "name": "BLU",
+    "description": "initiative",
+    "price": 12
+  },
+  {
+    "id": 120,
+    "name": "Nokia",
+    "description": "background",
+    "price": 19
+  },
+  {
+    "id": 121,
+    "name": "Posh",
+    "description": "support",
+    "price": 83
+  },
+  {
+    "id": 122,
+    "name": "Maxwest",
+    "description": "interactive",
+    "price": 16
+  },
+  {
+    "id": 123,
+    "name": "Samsung",
+    "description": "Compatible",
+    "price": 35
+  },
+  {
+    "id": 124,
+    "name": "Samsung",
+    "description": "even-keeled",
+    "price": 88
+  },
+  {
+    "id": 125,
+    "name": "Philips",
+    "description": "task-force",
+    "price": 69
+  },
+  {
+    "id": 126,
+    "name": "LG",
+    "description": "leading edge",
+    "price": 29
+  },
+  {
+    "id": 127,
+    "name": "Archos",
+    "description": "interactive",
+    "price": 26
+  },
+  {
+    "id": 128,
+    "name": "Samsung",
+    "description": "forecast",
+    "price": 55
+  },
+  {
+    "id": 129,
+    "name": "Infinix",
+    "description": "incremental",
+    "price": 41
+  },
+  {
+    "id": 130,
+    "name": "Micromax",
+    "description": "interface",
+    "price": 15
+  },
+  {
+    "id": 131,
+    "name": "Samsung",
+    "description": "Exclusive",
+    "price": 60
+  },
+  {
+    "id": 132,
+    "name": "BlackBerry",
+    "description": "analyzer",
+    "price": 44
+  },
+  {
+    "id": 133,
+    "name": "Kyocera",
+    "description": "contextually-based",
+    "price": 52
+  },
+  {
+    "id": 134,
+    "name": "Allview",
+    "description": "budgetary management",
+    "price": 26
+  },
+  {
+    "id": 135,
+    "name": "Yezz",
+    "description": "Versatile",
+    "price": 34
+  },
+  {
+    "id": 136,
+    "name": "alcatel",
+    "description": "Secured",
+    "price": 78
+  },
+  {
+    "id": 137,
+    "name": "verykool",
+    "description": "solution",
+    "price": 16
+  },
+  {
+    "id": 138,
+    "name": "Spice",
+    "description": "process improvement",
+    "price": 60
+  },
+  {
+    "id": 139,
+    "name": "Nokia",
+    "description": "User-centric",
+    "price": 78
+  },
+  {
+    "id": 140,
+    "name": "LG",
+    "description": "solution-oriented",
+    "price": 37
+  },
+  {
+    "id": 141,
+    "name": "Nokia",
+    "description": "open system",
+    "price": 81
+  },
+  {
+    "id": 142,
+    "name": "Samsung",
+    "description": "Open-source",
+    "price": 73
+  },
+  {
+    "id": 143,
+    "name": "Samsung",
+    "description": "time-frame",
+    "price": 38
+  },
+  {
+    "id": 144,
+    "name": "ZTE",
+    "description": "application",
+    "price": 97
+  },
+  {
+    "id": 145,
+    "name": "Samsung",
+    "description": "Quality-focused",
+    "price": 55
+  },
+  {
+    "id": 146,
+    "name": "LG",
+    "description": "context-sensitive",
+    "price": 63
+  },
+  {
+    "id": 147,
+    "name": "HTC",
+    "description": "collaboration",
+    "price": 35
+  },
+  {
+    "id": 148,
+    "name": "Motorola",
+    "description": "monitoring",
+    "price": 65
+  },
+  {
+    "id": 149,
+    "name": "ZTE",
+    "description": "Open-source",
+    "price": 58
+  },
+  {
+    "id": 150,
+    "name": "Maxwest",
+    "description": "fault-tolerant",
+    "price": 61
+  },
+  {
+    "id": 151,
+    "name": "Micromax",
+    "description": "superstructure",
+    "price": 78
+  },
+  {
+    "id": 152,
+    "name": "alcatel",
+    "description": "context-sensitive",
+    "price": 12
+  },
+  {
+    "id": 153,
+    "name": "Motorola",
+    "description": "framework",
+    "price": 72
+  },
+  {
+    "id": 154,
+    "name": "Realme",
+    "description": "Cross-platform",
+    "price": 68
+  },
+  {
+    "id": 155,
+    "name": "Apple",
+    "description": "Monitored",
+    "price": 73
+  },
+  {
+    "id": 156,
+    "name": "Spice",
+    "description": "Centralized",
+    "price": 4
+  },
+  {
+    "id": 157,
+    "name": "Samsung",
+    "description": "application",
+    "price": 75
+  },
+  {
+    "id": 158,
+    "name": "T-Mobile",
+    "description": "protocol",
+    "price": 75
+  },
+  {
+    "id": 159,
+    "name": "Huawei",
+    "description": "migration",
+    "price": 93
+  },
+  {
+    "id": 160,
+    "name": "Samsung",
+    "description": "even-keeled",
+    "price": 80
+  },
+  {
+    "id": 161,
+    "name": "Amazon",
+    "description": "model",
+    "price": 24
+  },
+  {
+    "id": 162,
+    "name": "Samsung",
+    "description": "Horizontal",
+    "price": 27
+  },
+  {
+    "id": 163,
+    "name": "LG",
+    "description": "solution",
+    "price": 1
+  },
+  {
+    "id": 164,
+    "name": "Icemobile",
+    "description": "incremental",
+    "price": 33
+  },
+  {
+    "id": 165,
+    "name": "Yezz",
+    "description": "encoding",
+    "price": 98
+  },
+  {
+    "id": 166,
+    "name": "Nokia",
+    "description": "impactful",
+    "price": 6
+  },
+  {
+    "id": 167,
+    "name": "Haier",
+    "description": "upward-trending",
+    "price": 21
+  },
+  {
+    "id": 168,
+    "name": "Wiko",
+    "description": "multimedia",
+    "price": 62
+  },
+  {
+    "id": 169,
+    "name": "Coolpad",
+    "description": "synergy",
+    "price": 81
+  },
+  {
+    "id": 170,
+    "name": "Xiaomi",
+    "description": "Inverse",
+    "price": 20
+  },
+  {
+    "id": 171,
+    "name": "Samsung",
+    "description": "algorithm",
+    "price": 79
+  },
+  {
+    "id": 172,
+    "name": "ZTE",
+    "description": "neutral",
+    "price": 50
+  },
+  {
+    "id": 173,
+    "name": "LG",
+    "description": "system engine",
+    "price": 2
+  },
+  {
+    "id": 174,
+    "name": "vivo",
+    "description": "conglomeration",
+    "price": 94
+  },
+  {
+    "id": 175,
+    "name": "Samsung",
+    "description": "capacity",
+    "price": 17
+  },
+  {
+    "id": 176,
+    "name": "Samsung",
+    "description": "Centralized",
+    "price": 75
+  },
+  {
+    "id": 177,
+    "name": "Lenovo",
+    "description": "customer loyalty",
+    "price": 52
+  },
+  {
+    "id": 178,
+    "name": "VK",
+    "description": "Team-oriented",
+    "price": 82
+  },
+  {
+    "id": 179,
+    "name": "Huawei",
+    "description": "zero tolerance",
+    "price": 28
+  },
+  {
+    "id": 180,
+    "name": "vivo",
+    "description": "architecture",
+    "price": 24
+  },
+  {
+    "id": 181,
+    "name": "Sony",
+    "description": "adapter",
+    "price": 62
+  },
+  {
+    "id": 182,
+    "name": "HTC",
+    "description": "multi-state",
+    "price": 83
+  },
+  {
+    "id": 183,
+    "name": "Apple",
+    "description": "even-keeled",
+    "price": 22
+  },
+  {
+    "id": 184,
+    "name": "Asus",
+    "description": "asymmetric",
+    "price": 12
+  },
+  {
+    "id": 185,
+    "name": "Xiaomi",
+    "description": "24/7",
+    "price": 96
+  },
+  {
+    "id": 186,
+    "name": "Lava",
+    "description": "discrete",
+    "price": 37
+  },
+  {
+    "id": 187,
+    "name": "Allview",
+    "description": "systematic",
+    "price": 80
+  },
+  {
+    "id": 188,
+    "name": "Allview",
+    "description": "capacity",
+    "price": 76
+  },
+  {
+    "id": 189,
+    "name": "Samsung",
+    "description": "knowledge base",
+    "price": 20
+  },
+  {
+    "id": 190,
+    "name": "Prestigio",
+    "description": "analyzer",
+    "price": 19
+  },
+  {
+    "id": 191,
+    "name": "LG",
+    "description": "Monitored",
+    "price": 78
+  },
+  {
+    "id": 192,
+    "name": "Nokia",
+    "description": "core",
+    "price": 99
+  },
+  {
+    "id": 193,
+    "name": "Siemens",
+    "description": "Streamlined",
+    "price": 27
+  },
+  {
+    "id": 194,
+    "name": "Micromax",
+    "description": "dynamic",
+    "price": 29
+  },
+  {
+    "id": 195,
+    "name": "Motorola",
+    "description": "encompassing",
+    "price": 24
+  },
+  {
+    "id": 196,
+    "name": "LG",
+    "description": "extranet",
+    "price": 32
+  },
+  {
+    "id": 197,
+    "name": "ZTE",
+    "description": "Proactive",
+    "price": 20
+  },
+  {
+    "id": 198,
+    "name": "LG",
+    "description": "collaboration",
+    "price": 50
+  },
+  {
+    "id": 199,
+    "name": "BLU",
+    "description": "asymmetric",
+    "price": 29
+  },
+  {
+    "id": 200,
+    "name": "Archos",
+    "description": "mission-critical",
+    "price": 8
+  },
+  {
+    "id": 201,
+    "name": "LG",
+    "description": "24/7",
+    "price": 45
+  },
+  {
+    "id": 202,
+    "name": "Bird",
+    "description": "Phased",
+    "price": 48
+  },
+  {
+    "id": 203,
+    "name": "Samsung",
+    "description": "contextually-based",
+    "price": 48
+  },
+  {
+    "id": 204,
+    "name": "i-mobile",
+    "description": "scalable",
+    "price": 77
+  },
+  {
+    "id": 205,
+    "name": "Gigabyte",
+    "description": "Virtual",
+    "price": 10
+  },
+  {
+    "id": 206,
+    "name": "Motorola",
+    "description": "mission-critical",
+    "price": 87
+  },
+  {
+    "id": 207,
+    "name": "LG",
+    "description": "project",
+    "price": 94
+  },
+  {
+    "id": 208,
+    "name": "Bird",
+    "description": "bandwidth-monitored",
+    "price": 11
+  },
+  {
+    "id": 209,
+    "name": "LG",
+    "description": "responsive",
+    "price": 89
+  },
+  {
+    "id": 210,
+    "name": "Sagem",
+    "description": "executive",
+    "price": 67
+  },
+  {
+    "id": 211,
+    "name": "Acer",
+    "description": "function",
+    "price": 66
+  },
+  {
+    "id": 212,
+    "name": "Lava",
+    "description": "local area network",
+    "price": 40
+  },
+  {
+    "id": 213,
+    "name": "Ulefone",
+    "description": "dynamic",
+    "price": 39
+  },
+  {
+    "id": 214,
+    "name": "Samsung",
+    "description": "Multi-tiered",
+    "price": 59
+  },
+  {
+    "id": 215,
+    "name": "Allview",
+    "description": "5th generation",
+    "price": 71
+  },
+  {
+    "id": 216,
+    "name": "Siemens",
+    "description": "Synchronised",
+    "price": 6
+  },
+  {
+    "id": 217,
+    "name": "Oppo",
+    "description": "Polarised",
+    "price": 57
+  },
+  {
+    "id": 218,
+    "name": "Wiko",
+    "description": "Multi-channelled",
+    "price": 83
+  },
+  {
+    "id": 219,
+    "name": "Samsung",
+    "description": "Synergized",
+    "price": 62
+  },
+  {
+    "id": 220,
+    "name": "ZTE",
+    "description": "Operative",
+    "price": 93
+  },
+  {
+    "id": 221,
+    "name": "Samsung",
+    "description": "Horizontal",
+    "price": 79
+  },
+  {
+    "id": 222,
+    "name": "Samsung",
+    "description": "homogeneous",
+    "price": 85
+  },
+  {
+    "id": 223,
+    "name": "Infinix",
+    "description": "function",
+    "price": 14
+  },
+  {
+    "id": 224,
+    "name": "Oppo",
+    "description": "dedicated",
+    "price": 64
+  },
+  {
+    "id": 225,
+    "name": "Sony",
+    "description": "Proactive",
+    "price": 49
+  },
+  {
+    "id": 226,
+    "name": "Sharp",
+    "description": "toolset",
+    "price": 42
+  },
+  {
+    "id": 227,
+    "name": "Gigabyte",
+    "description": "Down-sized",
+    "price": 30
+  },
+  {
+    "id": 228,
+    "name": "Micromax",
+    "description": "Profit-focused",
+    "price": 99
+  },
+  {
+    "id": 229,
+    "name": "Nokia",
+    "description": "24 hour",
+    "price": 44
+  },
+  {
+    "id": 230,
+    "name": "Wiko",
+    "description": "high-level",
+    "price": 39
+  },
+  {
+    "id": 231,
+    "name": "Samsung",
+    "description": "Optimized",
+    "price": 81
+  },
+  {
+    "id": 232,
+    "name": "Samsung",
+    "description": "interface",
+    "price": 94
+  },
+  {
+    "id": 233,
+    "name": "LG",
+    "description": "Grass-roots",
+    "price": 76
+  },
+  {
+    "id": 234,
+    "name": "Samsung",
+    "description": "Customizable",
+    "price": 42
+  },
+  {
+    "id": 235,
+    "name": "Tecno",
+    "description": "needs-based",
+    "price": 56
+  },
+  {
+    "id": 236,
+    "name": "Samsung",
+    "description": "analyzer",
+    "price": 39
+  },
+  {
+    "id": 237,
+    "name": "Motorola",
+    "description": "Synchronised",
+    "price": 86
+  },
+  {
+    "id": 238,
+    "name": "Nokia",
+    "description": "core",
+    "price": 75
+  },
+  {
+    "id": 239,
+    "name": "Xiaomi",
+    "description": "implementation",
+    "price": 36
+  },
+  {
+    "id": 240,
+    "name": "Samsung",
+    "description": "Exclusive",
+    "price": 55
+  },
+  {
+    "id": 241,
+    "name": "Xiaomi",
+    "description": "zero tolerance",
+    "price": 85
+  },
+  {
+    "id": 242,
+    "name": "Samsung",
+    "description": "contextually-based",
+    "price": 83
+  },
+  {
+    "id": 243,
+    "name": "Modu",
+    "description": "challenge",
+    "price": 30
+  },
+  {
+    "id": 244,
+    "name": "Acer",
+    "description": "24 hour",
+    "price": 1
+  },
+  {
+    "id": 245,
+    "name": "Sharp",
+    "description": "database",
+    "price": 72
+  },
+  {
+    "id": 246,
+    "name": "Yezz",
+    "description": "benchmark",
+    "price": 82
+  },
+  {
+    "id": 247,
+    "name": "LG",
+    "description": "functionalities",
+    "price": 39
+  },
+  {
+    "id": 248,
+    "name": "Motorola",
+    "description": "Implemented",
+    "price": 64
+  },
+  {
+    "id": 249,
+    "name": "Energizer",
+    "description": "incremental",
+    "price": 29
+  },
+  {
+    "id": 250,
+    "name": "alcatel",
+    "description": "system engine",
+    "price": 83
+  },
+  {
+    "id": 251,
+    "name": "Allview",
+    "description": "tertiary",
+    "price": 34
+  },
+  {
+    "id": 252,
+    "name": "Samsung",
+    "description": "Programmable",
+    "price": 74
+  },
+  {
+    "id": 253,
+    "name": "Samsung",
+    "description": "Innovative",
+    "price": 20
+  },
+  {
+    "id": 254,
+    "name": "Samsung",
+    "description": "Streamlined",
+    "price": 33
+  },
+  {
+    "id": 255,
+    "name": "Mitac",
+    "description": "artificial intelligence",
+    "price": 49
+  },
+  {
+    "id": 256,
+    "name": "vivo",
+    "description": "approach",
+    "price": 80
+  },
+  {
+    "id": 257,
+    "name": "Micromax",
+    "description": "Profit-focused",
+    "price": 93
+  },
+  {
+    "id": 258,
+    "name": "ZTE",
+    "description": "artificial intelligence",
+    "price": 16
+  },
+  {
+    "id": 259,
+    "name": "Samsung",
+    "description": "projection",
+    "price": 70
+  },
+  {
+    "id": 260,
+    "name": "Panasonic",
+    "description": "multi-tasking",
+    "price": 44
+  },
+  {
+    "id": 261,
+    "name": "HP",
+    "description": "array",
+    "price": 97
+  },
+  {
+    "id": 262,
+    "name": "LG",
+    "description": "actuating",
+    "price": 31
+  },
+  {
+    "id": 263,
+    "name": "Samsung",
+    "description": "Secured",
+    "price": 72
+  },
+  {
+    "id": 264,
+    "name": "ZTE",
+    "description": "groupware",
+    "price": 7
+  },
+  {
+    "id": 265,
+    "name": "BLU",
+    "description": "cohesive",
+    "price": 78
+  },
+  {
+    "id": 266,
+    "name": "BLU",
+    "description": "interactive",
+    "price": 49
+  },
+  {
+    "id": 267,
+    "name": "Huawei",
+    "description": "Operative",
+    "price": 8
+  },
+  {
+    "id": 268,
+    "name": "Philips",
+    "description": "coherent",
+    "price": 72
+  },
+  {
+    "id": 269,
+    "name": "Kyocera",
+    "description": "Organic",
+    "price": 93
+  },
+  {
+    "id": 270,
+    "name": "Philips",
+    "description": "optimizing",
+    "price": 81
+  },
+  {
+    "id": 271,
+    "name": "Samsung",
+    "description": "Configurable",
+    "price": 9
+  },
+  {
+    "id": 272,
+    "name": "Philips",
+    "description": "tangible",
+    "price": 14
+  },
+  {
+    "id": 273,
+    "name": "Sony",
+    "description": "scalable",
+    "price": 64
+  },
+  {
+    "id": 274,
+    "name": "Motorola",
+    "description": "infrastructure",
+    "price": 56
+  },
+  {
+    "id": 275,
+    "name": "Nokia",
+    "description": "Programmable",
+    "price": 46
+  },
+  {
+    "id": 276,
+    "name": "Sagem",
+    "description": "ability",
+    "price": 100
+  },
+  {
+    "id": 277,
+    "name": "HTC",
+    "description": "motivating",
+    "price": 59
+  },
+  {
+    "id": 278,
+    "name": "BLU",
+    "description": "Reverse-engineered",
+    "price": 69
+  },
+  {
+    "id": 279,
+    "name": "Asus",
+    "description": "multi-tasking",
+    "price": 25
+  },
+  {
+    "id": 280,
+    "name": "Dell",
+    "description": "Face to face",
+    "price": 24
+  },
+  {
+    "id": 281,
+    "name": "Siemens",
+    "description": "local area network",
+    "price": 29
+  },
+  {
+    "id": 282,
+    "name": "Plum",
+    "description": "task-force",
+    "price": 23
+  },
+  {
+    "id": 283,
+    "name": "Icemobile",
+    "description": "3rd generation",
+    "price": 93
+  },
+  {
+    "id": 284,
+    "name": "LG",
+    "description": "eco-centric",
+    "price": 68
+  },
+  {
+    "id": 285,
+    "name": "Microsoft",
+    "description": "utilisation",
+    "price": 58
+  },
+  {
+    "id": 286,
+    "name": "Sonim",
+    "description": "Reduced",
+    "price": 11
+  },
+  {
+    "id": 287,
+    "name": "NIU",
+    "description": "web-enabled",
+    "price": 39
+  },
+  {
+    "id": 288,
+    "name": "BLU",
+    "description": "intermediate",
+    "price": 87
+  },
+  {
+    "id": 289,
+    "name": "Bird",
+    "description": "User-centric",
+    "price": 81
+  },
+  {
+    "id": 290,
+    "name": "Motorola",
+    "description": "Operative",
+    "price": 80
+  },
+  {
+    "id": 291,
+    "name": "Micromax",
+    "description": "bi-directional",
+    "price": 56
+  },
+  {
+    "id": 292,
+    "name": "Huawei",
+    "description": "migration",
+    "price": 51
+  },
+  {
+    "id": 293,
+    "name": "alcatel",
+    "description": "background",
+    "price": 1
+  },
+  {
+    "id": 294,
+    "name": "ZTE",
+    "description": "secured line",
+    "price": 79
+  },
+  {
+    "id": 295,
+    "name": "Parla",
+    "description": "strategy",
+    "price": 34
+  },
+  {
+    "id": 296,
+    "name": "Samsung",
+    "description": "Programmable",
+    "price": 45
+  },
+  {
+    "id": 297,
+    "name": "LG",
+    "description": "benchmark",
+    "price": 25
+  },
+  {
+    "id": 298,
+    "name": "verykool",
+    "description": "database",
+    "price": 52
+  },
+  {
+    "id": 299,
+    "name": "LG",
+    "description": "Cross-group",
+    "price": 100
+  },
+  {
+    "id": 300,
+    "name": "vivo",
+    "description": "bifurcated",
+    "price": 96
+  },
+  {
+    "id": 301,
+    "name": "Allview",
+    "description": "Pre-emptive",
+    "price": 59
+  },
+  {
+    "id": 302,
+    "name": "Prestigio",
+    "description": "Customer-focused",
+    "price": 40
+  },
+  {
+    "id": 303,
+    "name": "ZTE",
+    "description": "bi-directional",
+    "price": 82
+  },
+  {
+    "id": 304,
+    "name": "LG",
+    "description": "multimedia",
+    "price": 57
+  },
+  {
+    "id": 305,
+    "name": "Vodafone",
+    "description": "knowledge base",
+    "price": 21
+  },
+  {
+    "id": 306,
+    "name": "BLU",
+    "description": "Multi-tiered",
+    "price": 89
+  },
+  {
+    "id": 307,
+    "name": "Asus",
+    "description": "responsive",
+    "price": 12
+  },
+  {
+    "id": 308,
+    "name": "Micromax",
+    "description": "Implemented",
+    "price": 84
+  },
+  {
+    "id": 309,
+    "name": "Archos",
+    "description": "fresh-thinking",
+    "price": 59
+  },
+  {
+    "id": 310,
+    "name": "Micromax",
+    "description": "focus group",
+    "price": 51
+  },
+  {
+    "id": 311,
+    "name": "Sony",
+    "description": "coherent",
+    "price": 75
+  },
+  {
+    "id": 312,
+    "name": "Maxwest",
+    "description": "impactful",
+    "price": 79
+  },
+  {
+    "id": 313,
+    "name": "verykool",
+    "description": "uniform",
+    "price": 73
+  },
+  {
+    "id": 314,
+    "name": "NIU",
+    "description": "static",
+    "price": 85
+  },
+  {
+    "id": 315,
+    "name": "Honor",
+    "description": "help-desk",
+    "price": 44
+  },
+  {
+    "id": 316,
+    "name": "Samsung",
+    "description": "access",
+    "price": 76
+  },
+  {
+    "id": 317,
+    "name": "Icemobile",
+    "description": "definition",
+    "price": 85
+  },
+  {
+    "id": 318,
+    "name": "Apple",
+    "description": "heuristic",
+    "price": 22
+  },
+  {
+    "id": 319,
+    "name": "Philips",
+    "description": "leverage",
+    "price": 11
+  },
+  {
+    "id": 320,
+    "name": "Samsung",
+    "description": "zero tolerance",
+    "price": 74
+  },
+  {
+    "id": 321,
+    "name": "XOLO",
+    "description": "coherent",
+    "price": 38
+  },
+  {
+    "id": 322,
+    "name": "LG",
+    "description": "actuating",
+    "price": 78
+  },
+  {
+    "id": 323,
+    "name": "Yezz",
+    "description": "projection",
+    "price": 36
+  },
+  {
+    "id": 324,
+    "name": "verykool",
+    "description": "budgetary management",
+    "price": 4
+  },
+  {
+    "id": 325,
+    "name": "Prestigio",
+    "description": "hierarchy",
+    "price": 54
+  },
+  {
+    "id": 326,
+    "name": "Toshiba",
+    "description": "cohesive",
+    "price": 10
+  },
+  {
+    "id": 327,
+    "name": "alcatel",
+    "description": "Centralized",
+    "price": 24
+  },
+  {
+    "id": 328,
+    "name": "alcatel",
+    "description": "forecast",
+    "price": 21
+  },
+  {
+    "id": 329,
+    "name": "Huawei",
+    "description": "Reverse-engineered",
+    "price": 18
+  },
+  {
+    "id": 330,
+    "name": "Archos",
+    "description": "directional",
+    "price": 57
+  },
+  {
+    "id": 331,
+    "name": "NIU",
+    "description": "help-desk",
+    "price": 44
+  },
+  {
+    "id": 332,
+    "name": "Acer",
+    "description": "encoding",
+    "price": 42
+  },
+  {
+    "id": 333,
+    "name": "Micromax",
+    "description": "forecast",
+    "price": 71
+  },
+  {
+    "id": 334,
+    "name": "Amoi",
+    "description": "system-worthy",
+    "price": 28
+  },
+  {
+    "id": 335,
+    "name": "Nokia",
+    "description": "ability",
+    "price": 95
+  },
+  {
+    "id": 336,
+    "name": "ZTE",
+    "description": "background",
+    "price": 24
+  },
+  {
+    "id": 337,
+    "name": "Lava",
+    "description": "Right-sized",
+    "price": 60
+  },
+  {
+    "id": 338,
+    "name": "Amoi",
+    "description": "context-sensitive",
+    "price": 98
+  },
+  {
+    "id": 339,
+    "name": "Sony",
+    "description": "benchmark",
+    "price": 19
+  },
+  {
+    "id": 340,
+    "name": "Cat",
+    "description": "bi-directional",
+    "price": 79
+  },
+  {
+    "id": 341,
+    "name": "Samsung",
+    "description": "hub",
+    "price": 12
+  },
+  {
+    "id": 342,
+    "name": "LG",
+    "description": "object-oriented",
+    "price": 48
+  },
+  {
+    "id": 343,
+    "name": "Samsung",
+    "description": "flexibility",
+    "price": 96
+  },
+  {
+    "id": 344,
+    "name": "Asus",
+    "description": "Self-enabling",
+    "price": 10
+  },
+  {
+    "id": 345,
+    "name": "MWg",
+    "description": "Progressive",
+    "price": 54
+  },
+  {
+    "id": 346,
+    "name": "verykool",
+    "description": "implementation",
+    "price": 65
+  },
+  {
+    "id": 347,
+    "name": "Lenovo",
+    "description": "client-driven",
+    "price": 76
+  },
+  {
+    "id": 348,
+    "name": "QMobile",
+    "description": "global",
+    "price": 7
+  },
+  {
+    "id": 349,
+    "name": "BenQ",
+    "description": "Adaptive",
+    "price": 33
+  },
+  {
+    "id": 350,
+    "name": "alcatel",
+    "description": "leverage",
+    "price": 67
+  },
+  {
+    "id": 351,
+    "name": "Wiko",
+    "description": "Multi-lateral",
+    "price": 5
+  },
+  {
+    "id": 352,
+    "name": "LG",
+    "description": "methodology",
+    "price": 44
+  },
+  {
+    "id": 353,
+    "name": "Honor",
+    "description": "function",
+    "price": 33
+  },
+  {
+    "id": 354,
+    "name": "alcatel",
+    "description": "bifurcated",
+    "price": 1
+  },
+  {
+    "id": 355,
+    "name": "Nokia",
+    "description": "pricing structure",
+    "price": 36
+  },
+  {
+    "id": 356,
+    "name": "OnePlus",
+    "description": "Organized",
+    "price": 77
+  },
+  {
+    "id": 357,
+    "name": "Celkon",
+    "description": "Business-focused",
+    "price": 57
+  },
+  {
+    "id": 358,
+    "name": "alcatel",
+    "description": "fresh-thinking",
+    "price": 90
+  },
+  {
+    "id": 359,
+    "name": "Yezz",
+    "description": "5th generation",
+    "price": 3
+  },
+  {
+    "id": 360,
+    "name": "VK",
+    "description": "24/7",
+    "price": 87
+  },
+  {
+    "id": 361,
+    "name": "LG",
+    "description": "focus group",
+    "price": 77
+  },
+  {
+    "id": 362,
+    "name": "Nokia",
+    "description": "methodical",
+    "price": 2
+  },
+  {
+    "id": 363,
+    "name": "ZTE",
+    "description": "hardware",
+    "price": 43
+  },
+  {
+    "id": 364,
+    "name": "Lenovo",
+    "description": "Customizable",
+    "price": 28
+  },
+  {
+    "id": 365,
+    "name": "Tecno",
+    "description": "task-force",
+    "price": 87
+  },
+  {
+    "id": 366,
+    "name": "Motorola",
+    "description": "Assimilated",
+    "price": 34
+  },
+  {
+    "id": 367,
+    "name": "Nokia",
+    "description": "Assimilated",
+    "price": 31
+  },
+  {
+    "id": 368,
+    "name": "Huawei",
+    "description": "static",
+    "price": 11
+  },
+  {
+    "id": 369,
+    "name": "alcatel",
+    "description": "monitoring",
+    "price": 45
+  },
+  {
+    "id": 370,
+    "name": "Samsung",
+    "description": "Phased",
+    "price": 90
+  },
+  {
+    "id": 371,
+    "name": "Samsung",
+    "description": "didactic",
+    "price": 74
+  },
+  {
+    "id": 372,
+    "name": "Pantech",
+    "description": "radical",
+    "price": 86
+  },
+  {
+    "id": 373,
+    "name": "Huawei",
+    "description": "Organized",
+    "price": 23
+  },
+  {
+    "id": 374,
+    "name": "Samsung",
+    "description": "application",
+    "price": 92
+  },
+  {
+    "id": 375,
+    "name": "Xiaomi",
+    "description": "Quality-focused",
+    "price": 26
+  },
+  {
+    "id": 376,
+    "name": "Micromax",
+    "description": "asymmetric",
+    "price": 39
+  },
+  {
+    "id": 377,
+    "name": "Energizer",
+    "description": "user-facing",
+    "price": 43
+  },
+  {
+    "id": 378,
+    "name": "LG",
+    "description": "regional",
+    "price": 5
+  },
+  {
+    "id": 379,
+    "name": "Motorola",
+    "description": "cohesive",
+    "price": 93
+  },
+  {
+    "id": 380,
+    "name": "HTC",
+    "description": "complexity",
+    "price": 21
+  },
+  {
+    "id": 381,
+    "name": "ZTE",
+    "description": "open system",
+    "price": 32
+  },
+  {
+    "id": 382,
+    "name": "Samsung",
+    "description": "Expanded",
+    "price": 21
+  },
+  {
+    "id": 383,
+    "name": "Micromax",
+    "description": "Cross-group",
+    "price": 1
+  },
+  {
+    "id": 384,
+    "name": "Maxwest",
+    "description": "Adaptive",
+    "price": 1
+  },
+  {
+    "id": 385,
+    "name": "vivo",
+    "description": "Implemented",
+    "price": 57
+  },
+  {
+    "id": 386,
+    "name": "Haier",
+    "description": "static",
+    "price": 71
+  },
+  {
+    "id": 387,
+    "name": "alcatel",
+    "description": "bandwidth-monitored",
+    "price": 40
+  },
+  {
+    "id": 388,
+    "name": "Realme",
+    "description": "Decentralized",
+    "price": 87
+  },
+  {
+    "id": 389,
+    "name": "Huawei",
+    "description": "user-facing",
+    "price": 26
+  },
+  {
+    "id": 390,
+    "name": "ZTE",
+    "description": "5th generation",
+    "price": 80
+  },
+  {
+    "id": 391,
+    "name": "Micromax",
+    "description": "access",
+    "price": 46
+  },
+  {
+    "id": 392,
+    "name": "HTC",
+    "description": "system-worthy",
+    "price": 92
+  },
+  {
+    "id": 393,
+    "name": "Samsung",
+    "description": "software",
+    "price": 38
+  },
+  {
+    "id": 394,
+    "name": "Gigabyte",
+    "description": "Diverse",
+    "price": 25
+  },
+  {
+    "id": 395,
+    "name": "Samsung",
+    "description": "methodical",
+    "price": 19
+  },
+  {
+    "id": 396,
+    "name": "Micromax",
+    "description": "uniform",
+    "price": 22
+  },
+  {
+    "id": 397,
+    "name": "Intex",
+    "description": "Exclusive",
+    "price": 97
+  },
+  {
+    "id": 398,
+    "name": "Yezz",
+    "description": "hybrid",
+    "price": 44
+  },
+  {
+    "id": 399,
+    "name": "Asus",
+    "description": "Switchable",
+    "price": 95
+  },
+  {
+    "id": 400,
+    "name": "Sony",
+    "description": "regional",
+    "price": 78
+  },
+  {
+    "id": 401,
+    "name": "Honor",
+    "description": "budgetary management",
+    "price": 73
+  },
+  {
+    "id": 402,
+    "name": "Plum",
+    "description": "Synergized",
+    "price": 38
+  },
+  {
+    "id": 403,
+    "name": "Samsung",
+    "description": "next generation",
+    "price": 50
+  },
+  {
+    "id": 404,
+    "name": "i-mobile",
+    "description": "optimal",
+    "price": 40
+  },
+  {
+    "id": 405,
+    "name": "Motorola",
+    "description": "foreground",
+    "price": 79
+  },
+  {
+    "id": 406,
+    "name": "Celkon",
+    "description": "even-keeled",
+    "price": 93
+  },
+  {
+    "id": 407,
+    "name": "Tecno",
+    "description": "eco-centric",
+    "price": 6
+  },
+  {
+    "id": 408,
+    "name": "vivo",
+    "description": "Optional",
+    "price": 100
+  },
+  {
+    "id": 409,
+    "name": "Huawei",
+    "description": "Function-based",
+    "price": 80
+  },
+  {
+    "id": 410,
+    "name": "Motorola",
+    "description": "leading edge",
+    "price": 32
+  },
+  {
+    "id": 411,
+    "name": "BLU",
+    "description": "exuding",
+    "price": 32
+  },
+  {
+    "id": 412,
+    "name": "Sharp",
+    "description": "Re-engineered",
+    "price": 62
+  },
+  {
+    "id": 413,
+    "name": "Motorola",
+    "description": "Team-oriented",
+    "price": 52
+  },
+  {
+    "id": 414,
+    "name": "T-Mobile",
+    "description": "directional",
+    "price": 82
+  },
+  {
+    "id": 415,
+    "name": "Oppo",
+    "description": "content-based",
+    "price": 9
+  },
+  {
+    "id": 416,
+    "name": "Sagem",
+    "description": "Visionary",
+    "price": 38
+  },
+  {
+    "id": 417,
+    "name": "LG",
+    "description": "attitude-oriented",
+    "price": 92
+  },
+  {
+    "id": 418,
+    "name": "Realme",
+    "description": "synergy",
+    "price": 50
+  },
+  {
+    "id": 419,
+    "name": "Philips",
+    "description": "3rd generation",
+    "price": 45
+  },
+  {
+    "id": 420,
+    "name": "Samsung",
+    "description": "time-frame",
+    "price": 22
+  },
+  {
+    "id": 421,
+    "name": "Asus",
+    "description": "well-modulated",
+    "price": 100
+  },
+  {
+    "id": 422,
+    "name": "Samsung",
+    "description": "success",
+    "price": 66
+  },
+  {
+    "id": 423,
+    "name": "Samsung",
+    "description": "Decentralized",
+    "price": 33
+  },
+  {
+    "id": 424,
+    "name": "Nokia",
+    "description": "6th generation",
+    "price": 23
+  },
+  {
+    "id": 425,
+    "name": "ZTE",
+    "description": "application",
+    "price": 96
+  },
+  {
+    "id": 426,
+    "name": "Samsung",
+    "description": "mobile",
+    "price": 92
+  },
+  {
+    "id": 427,
+    "name": "Samsung",
+    "description": "high-level",
+    "price": 41
+  },
+  {
+    "id": 428,
+    "name": "LG",
+    "description": "Function-based",
+    "price": 27
+  },
+  {
+    "id": 429,
+    "name": "Samsung",
+    "description": "Multi-lateral",
+    "price": 51
+  },
+  {
+    "id": 430,
+    "name": "Lenovo",
+    "description": "Switchable",
+    "price": 14
+  },
+  {
+    "id": 431,
+    "name": "LG",
+    "description": "Visionary",
+    "price": 61
+  },
+  {
+    "id": 432,
+    "name": "Samsung",
+    "description": "intranet",
+    "price": 35
+  },
+  {
+    "id": 433,
+    "name": "Allview",
+    "description": "even-keeled",
+    "price": 99
+  },
+  {
+    "id": 434,
+    "name": "Gionee",
+    "description": "local area network",
+    "price": 65
+  },
+  {
+    "id": 435,
+    "name": "Motorola",
+    "description": "bi-directional",
+    "price": 27
+  },
+  {
+    "id": 436,
+    "name": "Honor",
+    "description": "pricing structure",
+    "price": 43
+  },
+  {
+    "id": 437,
+    "name": "Nokia",
+    "description": "website",
+    "price": 94
+  },
+  {
+    "id": 438,
+    "name": "Huawei",
+    "description": "zero tolerance",
+    "price": 74
+  },
+  {
+    "id": 439,
+    "name": "Sony",
+    "description": "object-oriented",
+    "price": 91
+  },
+  {
+    "id": 440,
+    "name": "Pantech",
+    "description": "utilisation",
+    "price": 44
+  },
+  {
+    "id": 441,
+    "name": "Sony",
+    "description": "Pre-emptive",
+    "price": 5
+  },
+  {
+    "id": 442,
+    "name": "LG",
+    "description": "neural-net",
+    "price": 1
+  },
+  {
+    "id": 443,
+    "name": "Lenovo",
+    "description": "benchmark",
+    "price": 13
+  },
+  {
+    "id": 444,
+    "name": "Philips",
+    "description": "grid-enabled",
+    "price": 70
+  },
+  {
+    "id": 445,
+    "name": "LG",
+    "description": "Profound",
+    "price": 85
+  },
+  {
+    "id": 446,
+    "name": "Micromax",
+    "description": "migration",
+    "price": 16
+  },
+  {
+    "id": 447,
+    "name": "LeEco",
+    "description": "Switchable",
+    "price": 52
+  },
+  {
+    "id": 448,
+    "name": "Archos",
+    "description": "Grass-roots",
+    "price": 20
+  },
+  {
+    "id": 449,
+    "name": "Samsung",
+    "description": "groupware",
+    "price": 85
+  },
+  {
+    "id": 450,
+    "name": "Xiaomi",
+    "description": "exuding",
+    "price": 22
+  },
+  {
+    "id": 451,
+    "name": "Gigabyte",
+    "description": "core",
+    "price": 69
+  },
+  {
+    "id": 452,
+    "name": "ZTE",
+    "description": "concept",
+    "price": 67
+  },
+  {
+    "id": 453,
+    "name": "Sony",
+    "description": "groupware",
+    "price": 37
+  },
+  {
+    "id": 454,
+    "name": "O2",
+    "description": "knowledge base",
+    "price": 42
+  },
+  {
+    "id": 455,
+    "name": "Samsung",
+    "description": "Enhanced",
+    "price": 32
+  },
+  {
+    "id": 456,
+    "name": "QMobile",
+    "description": "info-mediaries",
+    "price": 17
+  },
+  {
+    "id": 457,
+    "name": "i-mobile",
+    "description": "Progressive",
+    "price": 8
+  },
+  {
+    "id": 458,
+    "name": "alcatel",
+    "description": "bottom-line",
+    "price": 66
+  },
+  {
+    "id": 459,
+    "name": "Wiko",
+    "description": "approach",
+    "price": 52
+  },
+  {
+    "id": 460,
+    "name": "Samsung",
+    "description": "Expanded",
+    "price": 87
+  },
+  {
+    "id": 461,
+    "name": "Samsung",
+    "description": "dynamic",
+    "price": 42
+  },
+  {
+    "id": 462,
+    "name": "Plum",
+    "description": "Triple-buffered",
+    "price": 93
+  },
+  {
+    "id": 463,
+    "name": "Micromax",
+    "description": "asynchronous",
+    "price": 74
+  },
+  {
+    "id": 464,
+    "name": "Samsung",
+    "description": "capacity",
+    "price": 71
+  },
+  {
+    "id": 465,
+    "name": "Huawei",
+    "description": "contingency",
+    "price": 87
+  },
+  {
+    "id": 466,
+    "name": "BlackBerry",
+    "description": "tertiary",
+    "price": 89
+  },
+  {
+    "id": 467,
+    "name": "Ericsson",
+    "description": "Function-based",
+    "price": 37
+  },
+  {
+    "id": 468,
+    "name": "XOLO",
+    "description": "Realigned",
+    "price": 54
+  },
+  {
+    "id": 469,
+    "name": "Samsung",
+    "description": "Exclusive",
+    "price": 85
+  },
+  {
+    "id": 470,
+    "name": "Google",
+    "description": "access",
+    "price": 38
+  },
+  {
+    "id": 471,
+    "name": "LG",
+    "description": "focus group",
+    "price": 96
+  },
+  {
+    "id": 472,
+    "name": "Lenovo",
+    "description": "User-friendly",
+    "price": 18
+  },
+  {
+    "id": 473,
+    "name": "HTC",
+    "description": "complexity",
+    "price": 16
+  },
+  {
+    "id": 474,
+    "name": "Motorola",
+    "description": "executive",
+    "price": 72
+  },
+  {
+    "id": 475,
+    "name": "Samsung",
+    "description": "zero tolerance",
+    "price": 82
+  },
+  {
+    "id": 476,
+    "name": "Orange",
+    "description": "mobile",
+    "price": 38
+  },
+  {
+    "id": 477,
+    "name": "Icemobile",
+    "description": "portal",
+    "price": 30
+  },
+  {
+    "id": 478,
+    "name": "O2",
+    "description": "Public-key",
+    "price": 10
+  },
+  {
+    "id": 479,
+    "name": "LG",
+    "description": "Object-based",
+    "price": 83
+  },
+  {
+    "id": 480,
+    "name": "Samsung",
+    "description": "Assimilated",
+    "price": 100
+  },
+  {
+    "id": 481,
+    "name": "Celkon",
+    "description": "mission-critical",
+    "price": 25
+  },
+  {
+    "id": 482,
+    "name": "Lenovo",
+    "description": "help-desk",
+    "price": 93
+  },
+  {
+    "id": 483,
+    "name": "Samsung",
+    "description": "implementation",
+    "price": 100
+  },
+  {
+    "id": 484,
+    "name": "Sagem",
+    "description": "projection",
+    "price": 27
+  },
+  {
+    "id": 485,
+    "name": "Huawei",
+    "description": "Open-source",
+    "price": 28
+  },
+  {
+    "id": 486,
+    "name": "Nokia",
+    "description": "Phased",
+    "price": 82
+  },
+  {
+    "id": 487,
+    "name": "BLU",
+    "description": "client-server",
+    "price": 4
+  },
+  {
+    "id": 488,
+    "name": "Lenovo",
+    "description": "info-mediaries",
+    "price": 63
+  },
+  {
+    "id": 489,
+    "name": "HP",
+    "description": "Future-proofed",
+    "price": 61
+  },
+  {
+    "id": 490,
+    "name": "alcatel",
+    "description": "collaboration",
+    "price": 27
+  },
+  {
+    "id": 491,
+    "name": "Xiaomi",
+    "description": "Realigned",
+    "price": 73
+  },
+  {
+    "id": 492,
+    "name": "Gigabyte",
+    "description": "mission-critical",
+    "price": 77
+  },
+  {
+    "id": 493,
+    "name": "Xiaomi",
+    "description": "Synchronised",
+    "price": 67
+  },
+  {
+    "id": 494,
+    "name": "Orange",
+    "description": "disintermediate",
+    "price": 2
+  },
+  {
+    "id": 495,
+    "name": "Samsung",
+    "description": "array",
+    "price": 38
+  },
+  {
+    "id": 496,
+    "name": "Xiaomi",
+    "description": "Optional",
+    "price": 1
+  },
+  {
+    "id": 497,
+    "name": "Xiaomi",
+    "description": "Advanced",
+    "price": 76
+  },
+  {
+    "id": 498,
+    "name": "BLU",
+    "description": "mobile",
+    "price": 54
+  },
+  {
+    "id": 499,
+    "name": "Motorola",
+    "description": "software",
+    "price": 29
+  },
+  {
+    "id": 500,
+    "name": "Sonim",
+    "description": "contextually-based",
+    "price": 5
+  },
+  {
+    "id": 501,
+    "name": "alcatel",
+    "description": "object-oriented",
+    "price": 12
+  },
+  {
+    "id": 502,
+    "name": "Philips",
+    "description": "context-sensitive",
+    "price": 65
+  },
+  {
+    "id": 503,
+    "name": "HTC",
+    "description": "executive",
+    "price": 99
+  },
+  {
+    "id": 504,
+    "name": "Oppo",
+    "description": "circuit",
+    "price": 24
+  },
+  {
+    "id": 505,
+    "name": "Samsung",
+    "description": "instruction set",
+    "price": 20
+  },
+  {
+    "id": 506,
+    "name": "HTC",
+    "description": "multi-tasking",
+    "price": 19
+  },
+  {
+    "id": 507,
+    "name": "LG",
+    "description": "Multi-layered",
+    "price": 2
+  },
+  {
+    "id": 508,
+    "name": "Acer",
+    "description": "optimal",
+    "price": 7
+  },
+  {
+    "id": 509,
+    "name": "Maxon",
+    "description": "initiative",
+    "price": 68
+  },
+  {
+    "id": 510,
+    "name": "Apple",
+    "description": "even-keeled",
+    "price": 31
+  },
+  {
+    "id": 511,
+    "name": "Samsung",
+    "description": "product",
+    "price": 84
+  },
+  {
+    "id": 512,
+    "name": "Gionee",
+    "description": "national",
+    "price": 1
+  },
+  {
+    "id": 513,
+    "name": "BLU",
+    "description": "Self-enabling",
+    "price": 37
+  },
+  {
+    "id": 514,
+    "name": "T-Mobile",
+    "description": "3rd generation",
+    "price": 97
+  },
+  {
+    "id": 515,
+    "name": "Sagem",
+    "description": "Distributed",
+    "price": 76
+  },
+  {
+    "id": 516,
+    "name": "vivo",
+    "description": "demand-driven",
+    "price": 24
+  },
+  {
+    "id": 517,
+    "name": "Sharp",
+    "description": "Proactive",
+    "price": 86
+  },
+  {
+    "id": 518,
+    "name": "alcatel",
+    "description": "product",
+    "price": 84
+  },
+  {
+    "id": 519,
+    "name": "Tecno",
+    "description": "Optional",
+    "price": 81
+  },
+  {
+    "id": 520,
+    "name": "LG",
+    "description": "emulation",
+    "price": 47
+  },
+  {
+    "id": 521,
+    "name": "Motorola",
+    "description": "Switchable",
+    "price": 59
+  },
+  {
+    "id": 522,
+    "name": "Amoi",
+    "description": "leading edge",
+    "price": 84
+  },
+  {
+    "id": 523,
+    "name": "HTC",
+    "description": "Right-sized",
+    "price": 44
+  },
+  {
+    "id": 524,
+    "name": "LG",
+    "description": "maximized",
+    "price": 38
+  },
+  {
+    "id": 525,
+    "name": "Sagem",
+    "description": "value-added",
+    "price": 8
+  },
+  {
+    "id": 526,
+    "name": "Asus",
+    "description": "24/7",
+    "price": 40
+  },
+  {
+    "id": 527,
+    "name": "Gionee",
+    "description": "circuit",
+    "price": 50
+  },
+  {
+    "id": 528,
+    "name": "Motorola",
+    "description": "Seamless",
+    "price": 4
+  },
+  {
+    "id": 529,
+    "name": "alcatel",
+    "description": "logistical",
+    "price": 52
+  },
+  {
+    "id": 530,
+    "name": "Meizu",
+    "description": "Programmable",
+    "price": 7
+  },
+  {
+    "id": 531,
+    "name": "vivo",
+    "description": "Ergonomic",
+    "price": 17
+  },
+  {
+    "id": 532,
+    "name": "XOLO",
+    "description": "contextually-based",
+    "price": 59
+  },
+  {
+    "id": 533,
+    "name": "Samsung",
+    "description": "24/7",
+    "price": 64
+  },
+  {
+    "id": 534,
+    "name": "Samsung",
+    "description": "workforce",
+    "price": 8
+  },
+  {
+    "id": 535,
+    "name": "Celkon",
+    "description": "Monitored",
+    "price": 93
+  },
+  {
+    "id": 536,
+    "name": "Motorola",
+    "description": "utilisation",
+    "price": 62
+  },
+  {
+    "id": 537,
+    "name": "Plum",
+    "description": "hardware",
+    "price": 69
+  },
+  {
+    "id": 538,
+    "name": "LG",
+    "description": "mission-critical",
+    "price": 70
+  },
+  {
+    "id": 539,
+    "name": "Siemens",
+    "description": "Upgradable",
+    "price": 35
+  },
+  {
+    "id": 540,
+    "name": "Orange",
+    "description": "projection",
+    "price": 53
+  },
+  {
+    "id": 541,
+    "name": "alcatel",
+    "description": "array",
+    "price": 27
+  },
+  {
+    "id": 542,
+    "name": "HTC",
+    "description": "national",
+    "price": 2
+  },
+  {
+    "id": 543,
+    "name": "Asus",
+    "description": "benchmark",
+    "price": 59
+  },
+  {
+    "id": 544,
+    "name": "Realme",
+    "description": "Compatible",
+    "price": 43
+  },
+  {
+    "id": 545,
+    "name": "Philips",
+    "description": "framework",
+    "price": 47
+  },
+  {
+    "id": 546,
+    "name": "LG",
+    "description": "object-oriented",
+    "price": 96
+  },
+  {
+    "id": 547,
+    "name": "Microsoft",
+    "description": "Graphical User Interface",
+    "price": 38
+  },
+  {
+    "id": 548,
+    "name": "vivo",
+    "description": "methodology",
+    "price": 24
+  },
+  {
+    "id": 549,
+    "name": "i-mate",
+    "description": "Persevering",
+    "price": 2
+  },
+  {
+    "id": 550,
+    "name": "Tecno",
+    "description": "Pre-emptive",
+    "price": 2
+  },
+  {
+    "id": 551,
+    "name": "Sony",
+    "description": "Persistent",
+    "price": 12
+  },
+  {
+    "id": 552,
+    "name": "vivo",
+    "description": "Compatible",
+    "price": 29
+  },
+  {
+    "id": 553,
+    "name": "Huawei",
+    "description": "Compatible",
+    "price": 71
+  },
+  {
+    "id": 554,
+    "name": "LG",
+    "description": "Integrated",
+    "price": 57
+  },
+  {
+    "id": 555,
+    "name": "Philips",
+    "description": "Extended",
+    "price": 89
+  },
+  {
+    "id": 556,
+    "name": "BLU",
+    "description": "process improvement",
+    "price": 95
+  },
+  {
+    "id": 557,
+    "name": "Sony",
+    "description": "leverage",
+    "price": 19
+  },
+  {
+    "id": 558,
+    "name": "ZTE",
+    "description": "Persistent",
+    "price": 67
+  },
+  {
+    "id": 559,
+    "name": "Asus",
+    "description": "forecast",
+    "price": 5
+  },
+  {
+    "id": 560,
+    "name": "Samsung",
+    "description": "global",
+    "price": 89
+  },
+  {
+    "id": 561,
+    "name": "alcatel",
+    "description": "neural-net",
+    "price": 73
+  },
+  {
+    "id": 562,
+    "name": "Siemens",
+    "description": "object-oriented",
+    "price": 67
+  },
+  {
+    "id": 563,
+    "name": "Samsung",
+    "description": "local",
+    "price": 28
+  },
+  {
+    "id": 564,
+    "name": "ZTE",
+    "description": "support",
+    "price": 96
+  },
+  {
+    "id": 565,
+    "name": "Wiko",
+    "description": "radical",
+    "price": 95
+  },
+  {
+    "id": 566,
+    "name": "Motorola",
+    "description": "national",
+    "price": 92
+  },
+  {
+    "id": 567,
+    "name": "Gigabyte",
+    "description": "Graphical User Interface",
+    "price": 13
+  },
+  {
+    "id": 568,
+    "name": "Panasonic",
+    "description": "human-resource",
+    "price": 83
+  },
+  {
+    "id": 569,
+    "name": "Infinix",
+    "description": "global",
+    "price": 7
+  },
+  {
+    "id": 570,
+    "name": "Ericsson",
+    "description": "moderator",
+    "price": 99
+  },
+  {
+    "id": 571,
+    "name": "Sony",
+    "description": "global",
+    "price": 9
+  },
+  {
+    "id": 572,
+    "name": "O2",
+    "description": "dynamic",
+    "price": 45
+  },
+  {
+    "id": 573,
+    "name": "Prestigio",
+    "description": "homogeneous",
+    "price": 94
+  },
+  {
+    "id": 574,
+    "name": "Acer",
+    "description": "Customizable",
+    "price": 28
+  },
+  {
+    "id": 575,
+    "name": "Pantech",
+    "description": "User-centric",
+    "price": 28
+  },
+  {
+    "id": 576,
+    "name": "Bosch",
+    "description": "asynchronous",
+    "price": 72
+  },
+  {
+    "id": 577,
+    "name": "verykool",
+    "description": "complexity",
+    "price": 77
+  },
+  {
+    "id": 578,
+    "name": "Asus",
+    "description": "orchestration",
+    "price": 26
+  },
+  {
+    "id": 579,
+    "name": "Nokia",
+    "description": "demand-driven",
+    "price": 70
+  },
+  {
+    "id": 580,
+    "name": "alcatel",
+    "description": "6th generation",
+    "price": 45
+  },
+  {
+    "id": 581,
+    "name": "Xiaomi",
+    "description": "artificial intelligence",
+    "price": 31
+  },
+  {
+    "id": 582,
+    "name": "XOLO",
+    "description": "value-added",
+    "price": 91
+  },
+  {
+    "id": 583,
+    "name": "Samsung",
+    "description": "Secured",
+    "price": 74
+  },
+  {
+    "id": 584,
+    "name": "Nokia",
+    "description": "Secured",
+    "price": 28
+  },
+  {
+    "id": 585,
+    "name": "vivo",
+    "description": "Monitored",
+    "price": 58
+  },
+  {
+    "id": 586,
+    "name": "Samsung",
+    "description": "customer loyalty",
+    "price": 91
+  },
+  {
+    "id": 587,
+    "name": "Honor",
+    "description": "migration",
+    "price": 98
+  },
+  {
+    "id": 588,
+    "name": "Celkon",
+    "description": "toolset",
+    "price": 54
+  },
+  {
+    "id": 589,
+    "name": "Xiaomi",
+    "description": "Down-sized",
+    "price": 39
+  },
+  {
+    "id": 590,
+    "name": "Sony",
+    "description": "Devolved",
+    "price": 55
+  },
+  {
+    "id": 591,
+    "name": "LG",
+    "description": "Configurable",
+    "price": 94
+  },
+  {
+    "id": 592,
+    "name": "Yezz",
+    "description": "systemic",
+    "price": 18
+  },
+  {
+    "id": 593,
+    "name": "Haier",
+    "description": "Proactive",
+    "price": 30
+  },
+  {
+    "id": 594,
+    "name": "Xiaomi",
+    "description": "static",
+    "price": 38
+  },
+  {
+    "id": 595,
+    "name": "Samsung",
+    "description": "Reverse-engineered",
+    "price": 26
+  },
+  {
+    "id": 596,
+    "name": "Motorola",
+    "description": "attitude-oriented",
+    "price": 14
+  },
+  {
+    "id": 597,
+    "name": "Motorola",
+    "description": "Multi-tiered",
+    "price": 56
+  },
+  {
+    "id": 598,
+    "name": "Lenovo",
+    "description": "dynamic",
+    "price": 57
+  },
+  {
+    "id": 599,
+    "name": "alcatel",
+    "description": "success",
+    "price": 76
+  },
+  {
+    "id": 600,
+    "name": "Celkon",
+    "description": "impactful",
+    "price": 63
+  },
+  {
+    "id": 601,
+    "name": "Nokia",
+    "description": "model",
+    "price": 81
+  },
+  {
+    "id": 602,
+    "name": "Microsoft",
+    "description": "Progressive",
+    "price": 56
+  },
+  {
+    "id": 603,
+    "name": "Samsung",
+    "description": "internet solution",
+    "price": 84
+  },
+  {
+    "id": 604,
+    "name": "vivo",
+    "description": "Devolved",
+    "price": 52
+  },
+  {
+    "id": 605,
+    "name": "Prestigio",
+    "description": "multimedia",
+    "price": 44
+  },
+  {
+    "id": 606,
+    "name": "Sony",
+    "description": "complexity",
+    "price": 98
+  },
+  {
+    "id": 607,
+    "name": "T-Mobile",
+    "description": "open architecture",
+    "price": 4
+  },
+  {
+    "id": 608,
+    "name": "Samsung",
+    "description": "intranet",
+    "price": 94
+  },
+  {
+    "id": 609,
+    "name": "LG",
+    "description": "Polarised",
+    "price": 6
+  },
+  {
+    "id": 610,
+    "name": "HTC",
+    "description": "Exclusive",
+    "price": 58
+  },
+  {
+    "id": 611,
+    "name": "LG",
+    "description": "paradigm",
+    "price": 12
+  },
+  {
+    "id": 612,
+    "name": "Plum",
+    "description": "3rd generation",
+    "price": 46
+  },
+  {
+    "id": 613,
+    "name": "Motorola",
+    "description": "Customizable",
+    "price": 79
+  },
+  {
+    "id": 614,
+    "name": "Xiaomi",
+    "description": "circuit",
+    "price": 46
+  },
+  {
+    "id": 615,
+    "name": "Sharp",
+    "description": "infrastructure",
+    "price": 94
+  },
+  {
+    "id": 616,
+    "name": "alcatel",
+    "description": "client-server",
+    "price": 66
+  },
+  {
+    "id": 617,
+    "name": "Samsung",
+    "description": "responsive",
+    "price": 68
+  },
+  {
+    "id": 618,
+    "name": "LG",
+    "description": "3rd generation",
+    "price": 21
+  },
+  {
+    "id": 619,
+    "name": "LG",
+    "description": "Innovative",
+    "price": 21
+  },
+  {
+    "id": 620,
+    "name": "Samsung",
+    "description": "conglomeration",
+    "price": 93
+  },
+  {
+    "id": 621,
+    "name": "LG",
+    "description": "6th generation",
+    "price": 82
+  },
+  {
+    "id": 622,
+    "name": "BQ",
+    "description": "array",
+    "price": 4
+  },
+  {
+    "id": 623,
+    "name": "Allview",
+    "description": "systematic",
+    "price": 89
+  },
+  {
+    "id": 624,
+    "name": "Micromax",
+    "description": "success",
+    "price": 60
+  },
+  {
+    "id": 625,
+    "name": "Motorola",
+    "description": "focus group",
+    "price": 80
+  },
+  {
+    "id": 626,
+    "name": "Asus",
+    "description": "zero tolerance",
+    "price": 18
+  },
+  {
+    "id": 627,
+    "name": "Huawei",
+    "description": "Profound",
+    "price": 15
+  },
+  {
+    "id": 628,
+    "name": "Micromax",
+    "description": "system-worthy",
+    "price": 74
+  },
+  {
+    "id": 629,
+    "name": "Philips",
+    "description": "encompassing",
+    "price": 91
+  },
+  {
+    "id": 630,
+    "name": "Samsung",
+    "description": "multimedia",
+    "price": 22
+  },
+  {
+    "id": 631,
+    "name": "Apple",
+    "description": "parallelism",
+    "price": 81
+  },
+  {
+    "id": 632,
+    "name": "BQ",
+    "description": "multi-state",
+    "price": 51
+  },
+  {
+    "id": 633,
+    "name": "Celkon",
+    "description": "reciprocal",
+    "price": 73
+  },
+  {
+    "id": 634,
+    "name": "LG",
+    "description": "client-driven",
+    "price": 40
+  },
+  {
+    "id": 635,
+    "name": "Samsung",
+    "description": "methodology",
+    "price": 80
+  },
+  {
+    "id": 636,
+    "name": "Micromax",
+    "description": "methodology",
+    "price": 69
+  },
+  {
+    "id": 637,
+    "name": "Sharp",
+    "description": "capability",
+    "price": 30
+  },
+  {
+    "id": 638,
+    "name": "Samsung",
+    "description": "interactive",
+    "price": 40
+  },
+  {
+    "id": 639,
+    "name": "Infinix",
+    "description": "Ergonomic",
+    "price": 83
+  },
+  {
+    "id": 640,
+    "name": "BLU",
+    "description": "directional",
+    "price": 95
+  },
+  {
+    "id": 641,
+    "name": "Samsung",
+    "description": "productivity",
+    "price": 50
+  },
+  {
+    "id": 642,
+    "name": "Sagem",
+    "description": "secondary",
+    "price": 2
+  },
+  {
+    "id": 643,
+    "name": "Sony",
+    "description": "Ergonomic",
+    "price": 86
+  },
+  {
+    "id": 644,
+    "name": "Asus",
+    "description": "Devolved",
+    "price": 45
+  },
+  {
+    "id": 645,
+    "name": "XOLO",
+    "description": "Multi-tiered",
+    "price": 65
+  },
+  {
+    "id": 646,
+    "name": "Philips",
+    "description": "even-keeled",
+    "price": 74
+  },
+  {
+    "id": 647,
+    "name": "Parla",
+    "description": "tangible",
+    "price": 68
+  },
+  {
+    "id": 648,
+    "name": "QMobile",
+    "description": "Persevering",
+    "price": 68
+  },
+  {
+    "id": 649,
+    "name": "Samsung",
+    "description": "incremental",
+    "price": 52
+  },
+  {
+    "id": 650,
+    "name": "Samsung",
+    "description": "Exclusive",
+    "price": 11
+  },
+  {
+    "id": 651,
+    "name": "Sonim",
+    "description": "high-level",
+    "price": 66
+  },
+  {
+    "id": 652,
+    "name": "Motorola",
+    "description": "cohesive",
+    "price": 94
+  },
+  {
+    "id": 653,
+    "name": "Sony",
+    "description": "empowering",
+    "price": 86
+  },
+  {
+    "id": 654,
+    "name": "Motorola",
+    "description": "pricing structure",
+    "price": 45
+  },
+  {
+    "id": 655,
+    "name": "Philips",
+    "description": "bottom-line",
+    "price": 3
+  },
+  {
+    "id": 656,
+    "name": "i-mobile",
+    "description": "bi-directional",
+    "price": 85
+  },
+  {
+    "id": 657,
+    "name": "LG",
+    "description": "Graphic Interface",
+    "price": 75
+  },
+  {
+    "id": 658,
+    "name": "XOLO",
+    "description": "benchmark",
+    "price": 2
+  },
+  {
+    "id": 659,
+    "name": "ZTE",
+    "description": "Persevering",
+    "price": 59
+  },
+  {
+    "id": 660,
+    "name": "ZTE",
+    "description": "Synchronised",
+    "price": 10
+  },
+  {
+    "id": 661,
+    "name": "YU",
+    "description": "impactful",
+    "price": 51
+  },
+  {
+    "id": 662,
+    "name": "Samsung",
+    "description": "disintermediate",
+    "price": 35
+  },
+  {
+    "id": 663,
+    "name": "Plum",
+    "description": "Multi-lateral",
+    "price": 97
+  },
+  {
+    "id": 664,
+    "name": "Gionee",
+    "description": "Cross-platform",
+    "price": 85
+  },
+  {
+    "id": 665,
+    "name": "alcatel",
+    "description": "matrix",
+    "price": 7
+  },
+  {
+    "id": 666,
+    "name": "Asus",
+    "description": "Versatile",
+    "price": 18
+  },
+  {
+    "id": 667,
+    "name": "Asus",
+    "description": "system engine",
+    "price": 18
+  },
+  {
+    "id": 668,
+    "name": "Lenovo",
+    "description": "success",
+    "price": 98
+  },
+  {
+    "id": 669,
+    "name": "Honor",
+    "description": "Front-line",
+    "price": 48
+  },
+  {
+    "id": 670,
+    "name": "Xiaomi",
+    "description": "4th generation",
+    "price": 77
+  },
+  {
+    "id": 671,
+    "name": "Samsung",
+    "description": "installation",
+    "price": 70
+  },
+  {
+    "id": 672,
+    "name": "Nokia",
+    "description": "incremental",
+    "price": 68
+  },
+  {
+    "id": 673,
+    "name": "LG",
+    "description": "methodology",
+    "price": 76
+  },
+  {
+    "id": 674,
+    "name": "verykool",
+    "description": "Innovative",
+    "price": 75
+  },
+  {
+    "id": 675,
+    "name": "Siemens",
+    "description": "attitude",
+    "price": 31
+  },
+  {
+    "id": 676,
+    "name": "LG",
+    "description": "synergy",
+    "price": 47
+  },
+  {
+    "id": 677,
+    "name": "BLU",
+    "description": "Graphic Interface",
+    "price": 18
+  },
+  {
+    "id": 678,
+    "name": "Nokia",
+    "description": "heuristic",
+    "price": 93
+  },
+  {
+    "id": 679,
+    "name": "LG",
+    "description": "projection",
+    "price": 37
+  },
+  {
+    "id": 680,
+    "name": "LG",
+    "description": "tertiary",
+    "price": 73
+  },
+  {
+    "id": 681,
+    "name": "BLU",
+    "description": "Extended",
+    "price": 55
+  },
+  {
+    "id": 682,
+    "name": "Celkon",
+    "description": "interactive",
+    "price": 13
+  },
+  {
+    "id": 683,
+    "name": "Samsung",
+    "description": "24/7",
+    "price": 66
+  },
+  {
+    "id": 684,
+    "name": "Siemens",
+    "description": "tangible",
+    "price": 57
+  },
+  {
+    "id": 685,
+    "name": "HP",
+    "description": "5th generation",
+    "price": 23
+  },
+  {
+    "id": 686,
+    "name": "Maxon",
+    "description": "human-resource",
+    "price": 9
+  },
+  {
+    "id": 687,
+    "name": "LG",
+    "description": "hierarchy",
+    "price": 48
+  },
+  {
+    "id": 688,
+    "name": "Spice",
+    "description": "zero defect",
+    "price": 42
+  },
+  {
+    "id": 689,
+    "name": "Honor",
+    "description": "system-worthy",
+    "price": 26
+  },
+  {
+    "id": 690,
+    "name": "Infinix",
+    "description": "algorithm",
+    "price": 70
+  },
+  {
+    "id": 691,
+    "name": "Orange",
+    "description": "analyzer",
+    "price": 65
+  },
+  {
+    "id": 692,
+    "name": "Samsung",
+    "description": "well-modulated",
+    "price": 12
+  },
+  {
+    "id": 693,
+    "name": "BLU",
+    "description": "Graphic Interface",
+    "price": 24
+  },
+  {
+    "id": 694,
+    "name": "Motorola",
+    "description": "flexibility",
+    "price": 92
+  },
+  {
+    "id": 695,
+    "name": "BenQ",
+    "description": "service-desk",
+    "price": 77
+  },
+  {
+    "id": 696,
+    "name": "Lava",
+    "description": "stable",
+    "price": 91
+  },
+  {
+    "id": 697,
+    "name": "Samsung",
+    "description": "middleware",
+    "price": 94
+  },
+  {
+    "id": 698,
+    "name": "Philips",
+    "description": "instruction set",
+    "price": 68
+  },
+  {
+    "id": 699,
+    "name": "Mitsubishi",
+    "description": "Function-based",
+    "price": 22
+  },
+  {
+    "id": 700,
+    "name": "Lenovo",
+    "description": "policy",
+    "price": 49
+  },
+  {
+    "id": 701,
+    "name": "Samsung",
+    "description": "zero tolerance",
+    "price": 58
+  },
+  {
+    "id": 702,
+    "name": "Huawei",
+    "description": "standardization",
+    "price": 92
+  },
+  {
+    "id": 703,
+    "name": "Motorola",
+    "description": "Automated",
+    "price": 41
+  },
+  {
+    "id": 704,
+    "name": "Posh",
+    "description": "workforce",
+    "price": 79
+  },
+  {
+    "id": 705,
+    "name": "Honor",
+    "description": "groupware",
+    "price": 78
+  },
+  {
+    "id": 706,
+    "name": "Xiaomi",
+    "description": "dedicated",
+    "price": 45
+  },
+  {
+    "id": 707,
+    "name": "ZTE",
+    "description": "Synchronised",
+    "price": 74
+  },
+  {
+    "id": 708,
+    "name": "BLU",
+    "description": "Reverse-engineered",
+    "price": 55
+  },
+  {
+    "id": 709,
+    "name": "Samsung",
+    "description": "initiative",
+    "price": 30
+  },
+  {
+    "id": 710,
+    "name": "Nokia",
+    "description": "solution",
+    "price": 29
+  },
+  {
+    "id": 711,
+    "name": "Micromax",
+    "description": "User-centric",
+    "price": 88
+  },
+  {
+    "id": 712,
+    "name": "alcatel",
+    "description": "superstructure",
+    "price": 6
+  },
+  {
+    "id": 713,
+    "name": "BLU",
+    "description": "composite",
+    "price": 19
+  },
+  {
+    "id": 714,
+    "name": "Xiaomi",
+    "description": "success",
+    "price": 42
+  },
+  {
+    "id": 715,
+    "name": "verykool",
+    "description": "intermediate",
+    "price": 83
+  },
+  {
+    "id": 716,
+    "name": "Emporia",
+    "description": "secured line",
+    "price": 84
+  },
+  {
+    "id": 717,
+    "name": "Oppo",
+    "description": "Devolved",
+    "price": 1
+  },
+  {
+    "id": 718,
+    "name": "Panasonic",
+    "description": "Team-oriented",
+    "price": 38
+  },
+  {
+    "id": 719,
+    "name": "Microsoft",
+    "description": "Cloned",
+    "price": 61
+  },
+  {
+    "id": 720,
+    "name": "Plum",
+    "description": "bandwidth-monitored",
+    "price": 60
+  },
+  {
+    "id": 721,
+    "name": "Sharp",
+    "description": "projection",
+    "price": 53
+  },
+  {
+    "id": 722,
+    "name": "Microsoft",
+    "description": "web-enabled",
+    "price": 11
+  },
+  {
+    "id": 723,
+    "name": "Plum",
+    "description": "Centralized",
+    "price": 38
+  },
+  {
+    "id": 724,
+    "name": "Samsung",
+    "description": "Universal",
+    "price": 81
+  },
+  {
+    "id": 725,
+    "name": "alcatel",
+    "description": "projection",
+    "price": 26
+  },
+  {
+    "id": 726,
+    "name": "Samsung",
+    "description": "Team-oriented",
+    "price": 71
+  },
+  {
+    "id": 727,
+    "name": "Samsung",
+    "description": "Reactive",
+    "price": 70
+  },
+  {
+    "id": 728,
+    "name": "Nokia",
+    "description": "Object-based",
+    "price": 58
+  },
+  {
+    "id": 729,
+    "name": "Motorola",
+    "description": "Intuitive",
+    "price": 70
+  },
+  {
+    "id": 730,
+    "name": "Samsung",
+    "description": "Programmable",
+    "price": 16
+  },
+  {
+    "id": 731,
+    "name": "Lenovo",
+    "description": "Cloned",
+    "price": 31
+  },
+  {
+    "id": 732,
+    "name": "Oppo",
+    "description": "focus group",
+    "price": 36
+  },
+  {
+    "id": 733,
+    "name": "BenQ",
+    "description": "human-resource",
+    "price": 76
+  },
+  {
+    "id": 734,
+    "name": "Prestigio",
+    "description": "static",
+    "price": 7
+  },
+  {
+    "id": 735,
+    "name": "Celkon",
+    "description": "Object-based",
+    "price": 49
+  },
+  {
+    "id": 736,
+    "name": "Eten",
+    "description": "conglomeration",
+    "price": 52
+  },
+  {
+    "id": 737,
+    "name": "HTC",
+    "description": "Multi-lateral",
+    "price": 14
+  },
+  {
+    "id": 738,
+    "name": "Vodafone",
+    "description": "Reactive",
+    "price": 81
+  },
+  {
+    "id": 739,
+    "name": "Allview",
+    "description": "analyzer",
+    "price": 36
+  },
+  {
+    "id": 740,
+    "name": "Ericsson",
+    "description": "Decentralized",
+    "price": 61
+  },
+  {
+    "id": 741,
+    "name": "BLU",
+    "description": "firmware",
+    "price": 65
+  },
+  {
+    "id": 742,
+    "name": "Samsung",
+    "description": "5th generation",
+    "price": 2
+  },
+  {
+    "id": 743,
+    "name": "T-Mobile",
+    "description": "dedicated",
+    "price": 56
+  },
+  {
+    "id": 744,
+    "name": "Lenovo",
+    "description": "bottom-line",
+    "price": 9
+  },
+  {
+    "id": 745,
+    "name": "verykool",
+    "description": "demand-driven",
+    "price": 49
+  },
+  {
+    "id": 746,
+    "name": "ZTE",
+    "description": "paradigm",
+    "price": 86
+  },
+  {
+    "id": 747,
+    "name": "BLU",
+    "description": "24 hour",
+    "price": 56
+  },
+  {
+    "id": 748,
+    "name": "alcatel",
+    "description": "homogeneous",
+    "price": 81
+  },
+  {
+    "id": 749,
+    "name": "Samsung",
+    "description": "Cross-platform",
+    "price": 18
+  },
+  {
+    "id": 750,
+    "name": "verykool",
+    "description": "Innovative",
+    "price": 53
+  },
+  {
+    "id": 751,
+    "name": "Motorola",
+    "description": "asynchronous",
+    "price": 85
+  },
+  {
+    "id": 752,
+    "name": "Energizer",
+    "description": "Organic",
+    "price": 87
+  },
+  {
+    "id": 753,
+    "name": "Motorola",
+    "description": "Progressive",
+    "price": 21
+  },
+  {
+    "id": 754,
+    "name": "Oppo",
+    "description": "Advanced",
+    "price": 70
+  },
+  {
+    "id": 755,
+    "name": "Nokia",
+    "description": "analyzing",
+    "price": 86
+  },
+  {
+    "id": 756,
+    "name": "LG",
+    "description": "synergy",
+    "price": 52
+  },
+  {
+    "id": 757,
+    "name": "ZTE",
+    "description": "project",
+    "price": 94
+  },
+  {
+    "id": 758,
+    "name": "Wiko",
+    "description": "alliance",
+    "price": 100
+  },
+  {
+    "id": 759,
+    "name": "Icemobile",
+    "description": "6th generation",
+    "price": 18
+  },
+  {
+    "id": 760,
+    "name": "Oppo",
+    "description": "data-warehouse",
+    "price": 30
+  },
+  {
+    "id": 761,
+    "name": "Motorola",
+    "description": "solution-oriented",
+    "price": 2
+  },
+  {
+    "id": 762,
+    "name": "Motorola",
+    "description": "throughput",
+    "price": 12
+  },
+  {
+    "id": 763,
+    "name": "Samsung",
+    "description": "concept",
+    "price": 15
+  },
+  {
+    "id": 764,
+    "name": "Asus",
+    "description": "help-desk",
+    "price": 74
+  },
+  {
+    "id": 765,
+    "name": "Samsung",
+    "description": "Devolved",
+    "price": 22
+  },
+  {
+    "id": 766,
+    "name": "Pantech",
+    "description": "real-time",
+    "price": 32
+  },
+  {
+    "id": 767,
+    "name": "Samsung",
+    "description": "Adaptive",
+    "price": 25
+  },
+  {
+    "id": 768,
+    "name": "Siemens",
+    "description": "Total",
+    "price": 55
+  },
+  {
+    "id": 769,
+    "name": "Huawei",
+    "description": "website",
+    "price": 30
+  },
+  {
+    "id": 770,
+    "name": "ZTE",
+    "description": "help-desk",
+    "price": 83
+  },
+  {
+    "id": 771,
+    "name": "Samsung",
+    "description": "firmware",
+    "price": 5
+  },
+  {
+    "id": 772,
+    "name": "Apple",
+    "description": "Fundamental",
+    "price": 97
+  },
+  {
+    "id": 773,
+    "name": "Philips",
+    "description": "open architecture",
+    "price": 31
+  },
+  {
+    "id": 774,
+    "name": "QMobile",
+    "description": "Ameliorated",
+    "price": 52
+  },
+  {
+    "id": 775,
+    "name": "BLU",
+    "description": "empowering",
+    "price": 50
+  },
+  {
+    "id": 776,
+    "name": "Samsung",
+    "description": "Focused",
+    "price": 11
+  },
+  {
+    "id": 777,
+    "name": "Unnecto",
+    "description": "Down-sized",
+    "price": 43
+  },
+  {
+    "id": 778,
+    "name": "Spice",
+    "description": "moratorium",
+    "price": 13
+  },
+  {
+    "id": 779,
+    "name": "Sagem",
+    "description": "Exclusive",
+    "price": 34
+  },
+  {
+    "id": 780,
+    "name": "vivo",
+    "description": "concept",
+    "price": 78
+  },
+  {
+    "id": 781,
+    "name": "Wiko",
+    "description": "workforce",
+    "price": 65
+  },
+  {
+    "id": 782,
+    "name": "Oppo",
+    "description": "intangible",
+    "price": 71
+  },
+  {
+    "id": 783,
+    "name": "Samsung",
+    "description": "product",
+    "price": 42
+  },
+  {
+    "id": 784,
+    "name": "QMobile",
+    "description": "Open-architected",
+    "price": 24
+  },
+  {
+    "id": 785,
+    "name": "Micromax",
+    "description": "human-resource",
+    "price": 6
+  },
+  {
+    "id": 786,
+    "name": "verykool",
+    "description": "Visionary",
+    "price": 67
+  },
+  {
+    "id": 787,
+    "name": "Samsung",
+    "description": "Sharable",
+    "price": 30
+  },
+  {
+    "id": 788,
+    "name": "Samsung",
+    "description": "Horizontal",
+    "price": 23
+  },
+  {
+    "id": 789,
+    "name": "Xiaomi",
+    "description": "Upgradable",
+    "price": 38
+  },
+  {
+    "id": 790,
+    "name": "Oppo",
+    "description": "web-enabled",
+    "price": 77
+  },
+  {
+    "id": 791,
+    "name": "Motorola",
+    "description": "architecture",
+    "price": 88
+  },
+  {
+    "id": 792,
+    "name": "Motorola",
+    "description": "well-modulated",
+    "price": 31
+  },
+  {
+    "id": 793,
+    "name": "HTC",
+    "description": "motivating",
+    "price": 53
+  },
+  {
+    "id": 794,
+    "name": "Asus",
+    "description": "coherent",
+    "price": 53
+  },
+  {
+    "id": 795,
+    "name": "Motorola",
+    "description": "Mandatory",
+    "price": 28
+  },
+  {
+    "id": 796,
+    "name": "Micromax",
+    "description": "instruction set",
+    "price": 23
+  },
+  {
+    "id": 797,
+    "name": "LG",
+    "description": "open system",
+    "price": 85
+  },
+  {
+    "id": 798,
+    "name": "Nvidia",
+    "description": "Function-based",
+    "price": 91
+  },
+  {
+    "id": 799,
+    "name": "vivo",
+    "description": "zero administration",
+    "price": 83
+  },
+  {
+    "id": 800,
+    "name": "Coolpad",
+    "description": "solution",
+    "price": 66
+  },
+  {
+    "id": 801,
+    "name": "Samsung",
+    "description": "24 hour",
+    "price": 23
+  },
+  {
+    "id": 802,
+    "name": "Nokia",
+    "description": "Right-sized",
+    "price": 97
+  },
+  {
+    "id": 803,
+    "name": "Realme",
+    "description": "open architecture",
+    "price": 20
+  },
+  {
+    "id": 804,
+    "name": "NIU",
+    "description": "needs-based",
+    "price": 33
+  },
+  {
+    "id": 805,
+    "name": "vivo",
+    "description": "solution",
+    "price": 86
+  },
+  {
+    "id": 806,
+    "name": "BlackBerry",
+    "description": "approach",
+    "price": 39
+  },
+  {
+    "id": 807,
+    "name": "Tecno",
+    "description": "actuating",
+    "price": 80
+  },
+  {
+    "id": 808,
+    "name": "Maxon",
+    "description": "Cross-platform",
+    "price": 97
+  },
+  {
+    "id": 809,
+    "name": "Xiaomi",
+    "description": "regional",
+    "price": 36
+  },
+  {
+    "id": 810,
+    "name": "Huawei",
+    "description": "standardization",
+    "price": 20
+  },
+  {
+    "id": 811,
+    "name": "QMobile",
+    "description": "infrastructure",
+    "price": 62
+  },
+  {
+    "id": 812,
+    "name": "HTC",
+    "description": "Implemented",
+    "price": 61
+  },
+  {
+    "id": 813,
+    "name": "Samsung",
+    "description": "system-worthy",
+    "price": 66
+  },
+  {
+    "id": 814,
+    "name": "Nokia",
+    "description": "fresh-thinking",
+    "price": 82
+  },
+  {
+    "id": 815,
+    "name": "Samsung",
+    "description": "multimedia",
+    "price": 24
+  },
+  {
+    "id": 816,
+    "name": "BLU",
+    "description": "Optional",
+    "price": 34
+  },
+  {
+    "id": 817,
+    "name": "Motorola",
+    "description": "architecture",
+    "price": 29
+  },
+  {
+    "id": 818,
+    "name": "Oppo",
+    "description": "tertiary",
+    "price": 19
+  },
+  {
+    "id": 819,
+    "name": "Nokia",
+    "description": "instruction set",
+    "price": 12
+  },
+  {
+    "id": 820,
+    "name": "Motorola",
+    "description": "Devolved",
+    "price": 83
+  },
+  {
+    "id": 821,
+    "name": "Emporia",
+    "description": "maximized",
+    "price": 63
+  },
+  {
+    "id": 822,
+    "name": "Nokia",
+    "description": "Balanced",
+    "price": 25
+  },
+  {
+    "id": 823,
+    "name": "Micromax",
+    "description": "support",
+    "price": 59
+  },
+  {
+    "id": 824,
+    "name": "Sendo",
+    "description": "Intuitive",
+    "price": 26
+  },
+  {
+    "id": 825,
+    "name": "BLU",
+    "description": "analyzer",
+    "price": 35
+  },
+  {
+    "id": 826,
+    "name": "Huawei",
+    "description": "budgetary management",
+    "price": 16
+  },
+  {
+    "id": 827,
+    "name": "Allview",
+    "description": "matrix",
+    "price": 70
+  },
+  {
+    "id": 828,
+    "name": "Sony",
+    "description": "optimal",
+    "price": 17
+  },
+  {
+    "id": 829,
+    "name": "Xiaomi",
+    "description": "Horizontal",
+    "price": 8
+  },
+  {
+    "id": 830,
+    "name": "alcatel",
+    "description": "intangible",
+    "price": 55
+  },
+  {
+    "id": 831,
+    "name": "Yezz",
+    "description": "Reduced",
+    "price": 88
+  },
+  {
+    "id": 832,
+    "name": "BLU",
+    "description": "asymmetric",
+    "price": 86
+  },
+  {
+    "id": 833,
+    "name": "vivo",
+    "description": "project",
+    "price": 72
+  },
+  {
+    "id": 834,
+    "name": "Acer",
+    "description": "infrastructure",
+    "price": 31
+  },
+  {
+    "id": 835,
+    "name": "Nokia",
+    "description": "encompassing",
+    "price": 61
+  },
+  {
+    "id": 836,
+    "name": "Haier",
+    "description": "neutral",
+    "price": 7
+  },
+  {
+    "id": 837,
+    "name": "Xiaomi",
+    "description": "responsive",
+    "price": 60
+  },
+  {
+    "id": 838,
+    "name": "Lenovo",
+    "description": "Business-focused",
+    "price": 74
+  },
+  {
+    "id": 839,
+    "name": "Asus",
+    "description": "encryption",
+    "price": 75
+  },
+  {
+    "id": 840,
+    "name": "Motorola",
+    "description": "throughput",
+    "price": 66
+  },
+  {
+    "id": 841,
+    "name": "Gigabyte",
+    "description": "application",
+    "price": 82
+  },
+  {
+    "id": 842,
+    "name": "Nokia",
+    "description": "instruction set",
+    "price": 18
+  },
+  {
+    "id": 843,
+    "name": "Mitac",
+    "description": "mobile",
+    "price": 91
+  },
+  {
+    "id": 844,
+    "name": "Lenovo",
+    "description": "Expanded",
+    "price": 64
+  },
+  {
+    "id": 845,
+    "name": "alcatel",
+    "description": "intranet",
+    "price": 75
+  },
+  {
+    "id": 846,
+    "name": "Lenovo",
+    "description": "Cloned",
+    "price": 5
+  },
+  {
+    "id": 847,
+    "name": "Motorola",
+    "description": "Ergonomic",
+    "price": 31
+  },
+  {
+    "id": 848,
+    "name": "Micromax",
+    "description": "data-warehouse",
+    "price": 4
+  },
+  {
+    "id": 849,
+    "name": "Bird",
+    "description": "responsive",
+    "price": 24
+  },
+  {
+    "id": 850,
+    "name": "Oppo",
+    "description": "contingency",
+    "price": 76
+  },
+  {
+    "id": 851,
+    "name": "Nokia",
+    "description": "internet solution",
+    "price": 84
+  },
+  {
+    "id": 852,
+    "name": "Mitsubishi",
+    "description": "adapter",
+    "price": 51
+  },
+  {
+    "id": 853,
+    "name": "NEC",
+    "description": "attitude-oriented",
+    "price": 96
+  },
+  {
+    "id": 854,
+    "name": "Sony",
+    "description": "fault-tolerant",
+    "price": 12
+  },
+  {
+    "id": 855,
+    "name": "HTC",
+    "description": "static",
+    "price": 58
+  },
+  {
+    "id": 856,
+    "name": "Huawei",
+    "description": "composite",
+    "price": 96
+  },
+  {
+    "id": 857,
+    "name": "Acer",
+    "description": "attitude-oriented",
+    "price": 85
+  },
+  {
+    "id": 858,
+    "name": "Sony",
+    "description": "structure",
+    "price": 64
+  },
+  {
+    "id": 859,
+    "name": "Micromax",
+    "description": "circuit",
+    "price": 6
+  },
+  {
+    "id": 860,
+    "name": "Lenovo",
+    "description": "extranet",
+    "price": 83
+  },
+  {
+    "id": 861,
+    "name": "Yezz",
+    "description": "Devolved",
+    "price": 64
+  },
+  {
+    "id": 862,
+    "name": "Samsung",
+    "description": "leverage",
+    "price": 90
+  },
+  {
+    "id": 863,
+    "name": "Tel.Me.",
+    "description": "concept",
+    "price": 9
+  },
+  {
+    "id": 864,
+    "name": "Celkon",
+    "description": "interactive",
+    "price": 21
+  },
+  {
+    "id": 865,
+    "name": "HTC",
+    "description": "regional",
+    "price": 53
+  },
+  {
+    "id": 866,
+    "name": "alcatel",
+    "description": "utilisation",
+    "price": 97
+  },
+  {
+    "id": 867,
+    "name": "alcatel",
+    "description": "Total",
+    "price": 57
+  },
+  {
+    "id": 868,
+    "name": "Philips",
+    "description": "exuding",
+    "price": 43
+  },
+  {
+    "id": 869,
+    "name": "ZTE",
+    "description": "uniform",
+    "price": 81
+  },
+  {
+    "id": 870,
+    "name": "LG",
+    "description": "discrete",
+    "price": 65
+  },
+  {
+    "id": 871,
+    "name": "Samsung",
+    "description": "Profit-focused",
+    "price": 90
+  },
+  {
+    "id": 872,
+    "name": "Nokia",
+    "description": "service-desk",
+    "price": 30
+  },
+  {
+    "id": 873,
+    "name": "Samsung",
+    "description": "Assimilated",
+    "price": 62
+  },
+  {
+    "id": 874,
+    "name": "Samsung",
+    "description": "directional",
+    "price": 2
+  },
+  {
+    "id": 875,
+    "name": "Huawei",
+    "description": "discrete",
+    "price": 86
+  },
+  {
+    "id": 876,
+    "name": "T-Mobile",
+    "description": "Universal",
+    "price": 89
+  },
+  {
+    "id": 877,
+    "name": "LG",
+    "description": "Synchronised",
+    "price": 65
+  },
+  {
+    "id": 878,
+    "name": "Infinix",
+    "description": "Sharable",
+    "price": 24
+  },
+  {
+    "id": 879,
+    "name": "Motorola",
+    "description": "productivity",
+    "price": 25
+  },
+  {
+    "id": 880,
+    "name": "Samsung",
+    "description": "zero defect",
+    "price": 24
+  },
+  {
+    "id": 881,
+    "name": "Huawei",
+    "description": "Managed",
+    "price": 55
+  },
+  {
+    "id": 882,
+    "name": "NEC",
+    "description": "next generation",
+    "price": 40
+  },
+  {
+    "id": 883,
+    "name": "Huawei",
+    "description": "Progressive",
+    "price": 19
+  },
+  {
+    "id": 884,
+    "name": "Nokia",
+    "description": "policy",
+    "price": 39
+  },
+  {
+    "id": 885,
+    "name": "Nokia",
+    "description": "Phased",
+    "price": 51
+  },
+  {
+    "id": 886,
+    "name": "Kyocera",
+    "description": "disintermediate",
+    "price": 53
+  },
+  {
+    "id": 887,
+    "name": "XOLO",
+    "description": "actuating",
+    "price": 83
+  },
+  {
+    "id": 888,
+    "name": "Bird",
+    "description": "Graphical User Interface",
+    "price": 61
+  },
+  {
+    "id": 889,
+    "name": "Huawei",
+    "description": "matrices",
+    "price": 45
+  },
+  {
+    "id": 890,
+    "name": "vivo",
+    "description": "24/7",
+    "price": 25
+  },
+  {
+    "id": 891,
+    "name": "Nokia",
+    "description": "context-sensitive",
+    "price": 4
+  },
+  {
+    "id": 892,
+    "name": "Gionee",
+    "description": "solution-oriented",
+    "price": 33
+  },
+  {
+    "id": 893,
+    "name": "Celkon",
+    "description": "hardware",
+    "price": 91
+  },
+  {
+    "id": 894,
+    "name": "Spice",
+    "description": "3rd generation",
+    "price": 33
+  },
+  {
+    "id": 895,
+    "name": "Xiaomi",
+    "description": "forecast",
+    "price": 55
+  },
+  {
+    "id": 896,
+    "name": "Nokia",
+    "description": "Horizontal",
+    "price": 29
+  },
+  {
+    "id": 897,
+    "name": "Celkon",
+    "description": "forecast",
+    "price": 21
+  },
+  {
+    "id": 898,
+    "name": "Vodafone",
+    "description": "Pre-emptive",
+    "price": 83
+  },
+  {
+    "id": 899,
+    "name": "Micromax",
+    "description": "portal",
+    "price": 35
+  },
+  {
+    "id": 900,
+    "name": "Micromax",
+    "description": "Fundamental",
+    "price": 42
+  },
+  {
+    "id": 901,
+    "name": "Motorola",
+    "description": "web-enabled",
+    "price": 46
+  },
+  {
+    "id": 902,
+    "name": "Samsung",
+    "description": "product",
+    "price": 13
+  },
+  {
+    "id": 903,
+    "name": "Samsung",
+    "description": "multi-state",
+    "price": 96
+  },
+  {
+    "id": 904,
+    "name": "i-mate",
+    "description": "3rd generation",
+    "price": 59
+  },
+  {
+    "id": 905,
+    "name": "Pantech",
+    "description": "Re-contextualized",
+    "price": 8
+  },
+  {
+    "id": 906,
+    "name": "Maxon",
+    "description": "actuating",
+    "price": 54
+  },
+  {
+    "id": 907,
+    "name": "HTC",
+    "description": "hierarchy",
+    "price": 65
+  },
+  {
+    "id": 908,
+    "name": "Samsung",
+    "description": "bandwidth-monitored",
+    "price": 95
+  },
+  {
+    "id": 909,
+    "name": "Xiaomi",
+    "description": "transitional",
+    "price": 8
+  },
+  {
+    "id": 910,
+    "name": "Casio",
+    "description": "methodology",
+    "price": 71
+  },
+  {
+    "id": 911,
+    "name": "Samsung",
+    "description": "Quality-focused",
+    "price": 5
+  },
+  {
+    "id": 912,
+    "name": "Samsung",
+    "description": "responsive",
+    "price": 4
+  },
+  {
+    "id": 913,
+    "name": "Lenovo",
+    "description": "even-keeled",
+    "price": 76
+  },
+  {
+    "id": 914,
+    "name": "Philips",
+    "description": "methodology",
+    "price": 31
+  },
+  {
+    "id": 915,
+    "name": "Vodafone",
+    "description": "context-sensitive",
+    "price": 60
+  },
+  {
+    "id": 916,
+    "name": "Unnecto",
+    "description": "Distributed",
+    "price": 24
+  },
+  {
+    "id": 917,
+    "name": "Samsung",
+    "description": "didactic",
+    "price": 37
+  },
+  {
+    "id": 918,
+    "name": "Nokia",
+    "description": "firmware",
+    "price": 90
+  },
+  {
+    "id": 919,
+    "name": "Nokia",
+    "description": "Polarised",
+    "price": 56
+  },
+  {
+    "id": 920,
+    "name": "Philips",
+    "description": "Focused",
+    "price": 94
+  },
+  {
+    "id": 921,
+    "name": "Motorola",
+    "description": "Object-based",
+    "price": 69
+  },
+  {
+    "id": 922,
+    "name": "alcatel",
+    "description": "Graphic Interface",
+    "price": 35
+  },
+  {
+    "id": 923,
+    "name": "Philips",
+    "description": "interface",
+    "price": 62
+  },
+  {
+    "id": 924,
+    "name": "Infinix",
+    "description": "Down-sized",
+    "price": 98
+  },
+  {
+    "id": 925,
+    "name": "LG",
+    "description": "actuating",
+    "price": 83
+  },
+  {
+    "id": 926,
+    "name": "Lava",
+    "description": "data-warehouse",
+    "price": 57
+  },
+  {
+    "id": 927,
+    "name": "Huawei",
+    "description": "local",
+    "price": 56
+  },
+  {
+    "id": 928,
+    "name": "LG",
+    "description": "incremental",
+    "price": 34
+  },
+  {
+    "id": 929,
+    "name": "Asus",
+    "description": "knowledge user",
+    "price": 16
+  },
+  {
+    "id": 930,
+    "name": "NEC",
+    "description": "Optional",
+    "price": 56
+  },
+  {
+    "id": 931,
+    "name": "Acer",
+    "description": "Graphic Interface",
+    "price": 3
+  },
+  {
+    "id": 932,
+    "name": "Siemens",
+    "description": "internet solution",
+    "price": 94
+  },
+  {
+    "id": 933,
+    "name": "Nokia",
+    "description": "solution",
+    "price": 17
+  },
+  {
+    "id": 934,
+    "name": "Toshiba",
+    "description": "adapter",
+    "price": 7
+  },
+  {
+    "id": 935,
+    "name": "Panasonic",
+    "description": "Function-based",
+    "price": 23
+  },
+  {
+    "id": 936,
+    "name": "Apple",
+    "description": "incremental",
+    "price": 49
+  },
+  {
+    "id": 937,
+    "name": "Unnecto",
+    "description": "multi-tasking",
+    "price": 45
+  },
+  {
+    "id": 938,
+    "name": "Panasonic",
+    "description": "analyzer",
+    "price": 64
+  },
+  {
+    "id": 939,
+    "name": "Samsung",
+    "description": "responsive",
+    "price": 55
+  },
+  {
+    "id": 940,
+    "name": "Karbonn",
+    "description": "fault-tolerant",
+    "price": 28
+  },
+  {
+    "id": 941,
+    "name": "Samsung",
+    "description": "Integrated",
+    "price": 6
+  },
+  {
+    "id": 942,
+    "name": "Sony",
+    "description": "Managed",
+    "price": 91
+  },
+  {
+    "id": 943,
+    "name": "NEC",
+    "description": "Optimized",
+    "price": 31
+  },
+  {
+    "id": 944,
+    "name": "ZTE",
+    "description": "disintermediate",
+    "price": 9
+  },
+  {
+    "id": 945,
+    "name": "Asus",
+    "description": "Innovative",
+    "price": 3
+  },
+  {
+    "id": 946,
+    "name": "Infinix",
+    "description": "Down-sized",
+    "price": 20
+  },
+  {
+    "id": 947,
+    "name": "Motorola",
+    "description": "well-modulated",
+    "price": 76
+  },
+  {
+    "id": 948,
+    "name": "Asus",
+    "description": "reciprocal",
+    "price": 71
+  },
+  {
+    "id": 949,
+    "name": "Samsung",
+    "description": "maximized",
+    "price": 26
+  },
+  {
+    "id": 950,
+    "name": "Icemobile",
+    "description": "zero tolerance",
+    "price": 95
+  },
+  {
+    "id": 951,
+    "name": "Samsung",
+    "description": "actuating",
+    "price": 58
+  },
+  {
+    "id": 952,
+    "name": "HTC",
+    "description": "Centralized",
+    "price": 23
+  },
+  {
+    "id": 953,
+    "name": "Pantech",
+    "description": "high-level",
+    "price": 93
+  },
+  {
+    "id": 954,
+    "name": "Motorola",
+    "description": "6th generation",
+    "price": 90
+  },
+  {
+    "id": 955,
+    "name": "Siemens",
+    "description": "database",
+    "price": 37
+  },
+  {
+    "id": 956,
+    "name": "LG",
+    "description": "Self-enabling",
+    "price": 38
+  },
+  {
+    "id": 957,
+    "name": "Huawei",
+    "description": "Function-based",
+    "price": 26
+  },
+  {
+    "id": 958,
+    "name": "Wiko",
+    "description": "secondary",
+    "price": 52
+  },
+  {
+    "id": 959,
+    "name": "Samsung",
+    "description": "Ergonomic",
+    "price": 54
+  },
+  {
+    "id": 960,
+    "name": "Allview",
+    "description": "structure",
+    "price": 98
+  },
+  {
+    "id": 961,
+    "name": "ZTE",
+    "description": "Phased",
+    "price": 88
+  },
+  {
+    "id": 962,
+    "name": "NIU",
+    "description": "algorithm",
+    "price": 26
+  },
+  {
+    "id": 963,
+    "name": "Celkon",
+    "description": "Visionary",
+    "price": 27
+  },
+  {
+    "id": 964,
+    "name": "BenQ",
+    "description": "hardware",
+    "price": 4
+  },
+  {
+    "id": 965,
+    "name": "Asus",
+    "description": "holistic",
+    "price": 42
+  },
+  {
+    "id": 966,
+    "name": "Allview",
+    "description": "Ergonomic",
+    "price": 48
+  },
+  {
+    "id": 967,
+    "name": "Yezz",
+    "description": "Intuitive",
+    "price": 4
+  },
+  {
+    "id": 968,
+    "name": "Acer",
+    "description": "Realigned",
+    "price": 83
+  },
+  {
+    "id": 969,
+    "name": "Gionee",
+    "description": "application",
+    "price": 58
+  },
+  {
+    "id": 970,
+    "name": "LG",
+    "description": "throughput",
+    "price": 60
+  },
+  {
+    "id": 971,
+    "name": "Energizer",
+    "description": "multi-state",
+    "price": 30
+  },
+  {
+    "id": 972,
+    "name": "Prestigio",
+    "description": "moderator",
+    "price": 20
+  },
+  {
+    "id": 973,
+    "name": "Samsung",
+    "description": "Universal",
+    "price": 33
+  },
+  {
+    "id": 974,
+    "name": "ZTE",
+    "description": "Graphical User Interface",
+    "price": 44
+  },
+  {
+    "id": 975,
+    "name": "Asus",
+    "description": "24/7",
+    "price": 32
+  },
+  {
+    "id": 976,
+    "name": "verykool",
+    "description": "monitoring",
+    "price": 5
+  },
+  {
+    "id": 977,
+    "name": "Panasonic",
+    "description": "Organic",
+    "price": 75
+  },
+  {
+    "id": 978,
+    "name": "LG",
+    "description": "Mandatory",
+    "price": 59
+  },
+  {
+    "id": 979,
+    "name": "ZTE",
+    "description": "task-force",
+    "price": 57
+  },
+  {
+    "id": 980,
+    "name": "Samsung",
+    "description": "Reactive",
+    "price": 50
+  },
+  {
+    "id": 981,
+    "name": "Asus",
+    "description": "regional",
+    "price": 49
+  },
+  {
+    "id": 982,
+    "name": "LG",
+    "description": "adapter",
+    "price": 65
+  },
+  {
+    "id": 983,
+    "name": "Maxwest",
+    "description": "Automated",
+    "price": 46
+  },
+  {
+    "id": 984,
+    "name": "Samsung",
+    "description": "capacity",
+    "price": 23
+  },
+  {
+    "id": 985,
+    "name": "NIU",
+    "description": "Virtual",
+    "price": 48
+  },
+  {
+    "id": 986,
+    "name": "Yezz",
+    "description": "logistical",
+    "price": 88
+  },
+  {
+    "id": 987,
+    "name": "LG",
+    "description": "success",
+    "price": 79
+  },
+  {
+    "id": 988,
+    "name": "Gionee",
+    "description": "frame",
+    "price": 29
+  },
+  {
+    "id": 989,
+    "name": "Yezz",
+    "description": "open architecture",
+    "price": 49
+  },
+  {
+    "id": 990,
+    "name": "Samsung",
+    "description": "Graphic Interface",
+    "price": 5
+  },
+  {
+    "id": 991,
+    "name": "Lava",
+    "description": "forecast",
+    "price": 64
+  },
+  {
+    "id": 992,
+    "name": "vivo",
+    "description": "tertiary",
+    "price": 46
+  },
+  {
+    "id": 993,
+    "name": "QMobile",
+    "description": "solution-oriented",
+    "price": 93
+  },
+  {
+    "id": 994,
+    "name": "BlackBerry",
+    "description": "Virtual",
+    "price": 8
+  },
+  {
+    "id": 995,
+    "name": "Motorola",
+    "description": "approach",
+    "price": 97
+  },
+  {
+    "id": 996,
+    "name": "Orange",
+    "description": "zero administration",
+    "price": 58
+  },
+  {
+    "id": 997,
+    "name": "Nokia",
+    "description": "framework",
+    "price": 34
+  },
+  {
+    "id": 998,
+    "name": "Samsung",
+    "description": "hierarchy",
+    "price": 51
+  },
+  {
+    "id": 999,
+    "name": "BLU",
+    "description": "holistic",
+    "price": 30
+  },
+  {
+    "id": 1000,
+    "name": "vivo",
+    "description": "Front-line",
+    "price": 94
+  }
+]
