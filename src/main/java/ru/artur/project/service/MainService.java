@@ -2,9 +2,9 @@ package ru.artur.project.service;
 
 import org.springframework.stereotype.Service;
 import ru.artur.project.annotation.HandleException;
-import ru.artur.project.annotation.LogException;
 import ru.artur.project.annotation.HandleReturning;
 import ru.artur.project.annotation.LogBefore;
+import ru.artur.project.annotation.LogException;
 import ru.artur.project.exception.DivisionByZeroException;
 import ru.artur.project.exception.RootOfANegativeNumberException;
 

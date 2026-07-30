@@ -37,7 +37,7 @@ public class MainAspect {
             result = joinPoint.proceed();
         } catch (Throwable ex) {
             System.out.println("[MAIN ASPECT AROUND] EXCEPTION: From calling method " + joinPoint.getSignature().toShortString()
-            + " threw exception: " + ex);
+                    + " threw exception: " + ex);
         }
         return result;
     }
